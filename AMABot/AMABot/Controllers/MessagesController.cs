@@ -19,6 +19,9 @@ namespace AMABot
         {
             if (activity.Type == ActivityTypes.Message)
             {
+                if (activity.Attachments.Count > 0)
+                    activity.Text = "Image";
+
                 await Conversation.SendAsync(activity, () => new Dialogs.RootDialog());
             }
             else

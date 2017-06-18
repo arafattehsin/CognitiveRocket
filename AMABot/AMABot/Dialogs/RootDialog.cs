@@ -13,12 +13,6 @@ namespace AMABot.Dialogs
     public class RootDialog : IDialog<object>
     {
         private IEnumerable<string> RoutingOption = new List<string> { "Doctor", "Broadband" };
-        BroadbandDialog brdDialog;
-
-        public RootDialog()
-        {
-            brdDialog = new BroadbandDialog();
-        }
 
         #region Event Handlers
         public Task StartAsync(IDialogContext context)
@@ -58,7 +52,7 @@ namespace AMABot.Dialogs
                     attempts: 3,
                     promptStyle: PromptStyle.Keyboard);
             }
-            catch (TooManyAttemptsException ex)
+            catch (TooManyAttemptsException)
             {
                 // Log exception
             }
