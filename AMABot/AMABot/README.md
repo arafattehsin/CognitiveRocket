@@ -16,6 +16,12 @@ This code shows how to use Adaptive Cards in your bot for booking of an appointm
 
 Details can be found on this [blog](http://www.arafattehsin.com/blog/easy-booking-with-adaptive-cards/) post. 
 
+# Globalize your bot using multiple languages with LUIS
+
+This code shows how to incorporate multiple language support into your bot using single trained LUIS application. 
+
+Details can be found on this [blog](http://www.arafattehsin.com/blog/globalize-your-bot-multiple-languages) post.
+
 ### More Information
 
 For more information on managing the conversation using Dialogs, check out the following resources:
@@ -24,4 +30,5 @@ For more information on managing the conversation using Dialogs, check out the f
 * [IDialogContext Interface](https://docs.botframework.com/en-us/csharp/builder/sdkreference/d1/dc6/interface_microsoft_1_1_bot_1_1_builder_1_1_dialogs_1_1_i_dialog_context.html)
 * [Custom Vision](https://www.customvision.ai)
 * [Adaptive Cards](http://adaptivecards.io/)
+* [Translation API](https://www.microsoft.com/en-us/translator/translatorapi.aspx)
 
