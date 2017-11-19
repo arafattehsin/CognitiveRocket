@@ -67,7 +67,7 @@ namespace AMABot.Dialogs
                     context.Call(new DoctorDialog(), this.ResumeAfterDoctorDialog);
                     break;
                 case "Broadband":
-                    await CallBroadbandDialog(context, "Hello");
+                    await CallBroadbandDialog(context, selectedOption);
                     break;
                 default:
                     break;

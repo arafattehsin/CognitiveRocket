@@ -1,5 +1,4 @@
 ﻿using CognitiveLibrary.Controllers;
-using CognitiveLibrary.Utilities;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
@@ -14,24 +13,14 @@ using System.Web;
 
 namespace AMABot.Dialogs
 {
-
     [Serializable]
     [LuisModel("AppID", "SubscriptionKey")]
     public class BroadbandDialog : LuisDialog<object>
     {
-        string requestLang = "ur";
-        string responseLang = "en";
-
-        protected override async Task MessageReceived(IDialogContext context, IAwaitable<IMessageActivity> item)
+        public BroadbandDialog()
         {
-            IMessageActivity message = context.Activity.AsMessageActivity();
-            var response = await Utilities.TranslateText(message.Text, responseLang);
-            message.Text = response;
 
-            //Create a Translating Context to translate any messages that gets sent subsequently.
-            await base.MessageReceived(context, item);
         }
-
 
         [LuisIntent("")]
         [LuisIntent("None")]
@@ -84,12 +73,10 @@ namespace AMABot.Dialogs
 
 
         [LuisIntent("Greetings")]
-        public async Task Greetings(IDialogContext context, LuisResult result)
+        public Task Greetings(IDialogContext context, LuisResult result)
         {
-            var response = await Utilities.TranslateText("Welcome! Thanks for your message. How can we help you?", requestLang);
-            await context.PostAsync(response);
             context.Wait(this.MessageReceived);
-
+            return Task.CompletedTask;
         }
 
         [LuisIntent("ApplyPackage")]
@@ -100,11 +87,10 @@ namespace AMABot.Dialogs
         }
 
         [LuisIntent("GetBroadbandInfo")]
-        public async Task GetBroadbandInfo(IDialogContext context, LuisResult result)
+        public Task GetBroadbandInfo(IDialogContext context, LuisResult result)
         {
-            var response = await Utilities.TranslateText("Ok! What do you want to know about them?", requestLang);
-            await context.PostAsync(response);
             context.Wait(this.MessageReceived);
+            return Task.CompletedTask;
         }
     }
 }
