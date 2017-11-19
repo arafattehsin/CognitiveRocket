@@ -9,6 +9,7 @@ namespace CognitiveLibrary.Utilities
     {
         #region Keys
         public static readonly string CustomVisionTrainingAPIKey = "INSERT_YOUR_KEY_HERE";
+        public static readonly string TranslationAPIKey = "INSERT_YOUR_KEY_HERE";
         #endregion
     }
 }
