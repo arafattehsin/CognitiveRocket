@@ -18,12 +18,13 @@ namespace AMABot.Dialogs
         string doctorName = string.Empty;
 
         #region Event Handlers
-        public async Task StartAsync(IDialogContext context)
+        public Task StartAsync(IDialogContext context)
         {
             /* Wait until the first message is received from the conversation and call MessageReceviedAsync 
              *  to process that message. */
             SendBookApptMessage(context);
             context.Wait(this.MessageReceivedAsync);
+            return Task.CompletedTask;
         }
 
 
