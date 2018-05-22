@@ -22,6 +22,12 @@ This code shows how to incorporate multiple language support into your bot using
 
 Details can be found on this [blog](http://www.arafattehsin.com/blog/globalize-your-bot-multiple-languages) post.
 
+# Boost up your business by adding Twitter to the BotFramework stack
+
+This code shows how to integrate Twitter with your existing BotFramework bot. 
+
+Details can be found on this [blog](http://www.arafattehsin.com/blog/add-twitter-with-botframework)
+
 ### More Information
 
 For more information on managing the conversation using Dialogs, check out the following resources:
