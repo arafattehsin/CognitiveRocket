@@ -1,4 +1,4 @@
-﻿# Semantic Analyzer - Custom Middleware to the BotFramework
+﻿# Sentiment Analyzer - Custom Middleware to the BotFramework
 
 This code shows how to add a custom [middleware](https://github.com/Microsoft/botbuilder-dotnet/wiki/Creating-Middleware) to your own bot.
 
