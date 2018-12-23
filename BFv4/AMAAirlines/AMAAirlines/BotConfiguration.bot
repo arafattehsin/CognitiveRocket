@@ -1,0 +1,43 @@
+{
+    "name": "AMAAirlines",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+        {
+            "type": "luis",
+            "name": "AMALuis",
+            "appId": "94903dc1-2c2b-407c-be50-cc537852039d",
+            "version": "0.1",
+            "authoringKey": "dd0e9b8d4973410f902f435f05a82028",
+            "region": "westus",
+            "id": "61"
+        },
+      {
+        "type": "qna",
+        "name": "AMAQnA",
+        "kbId": "594bf658-3e03-4530-8c20-8574e501c7d0",
+        "subscriptionKey": "95821785dcaf43aab061692bebd7a02d",
+        "endpointKey": "0803721d-a6f1-44e8-b317-4f38b410fadc",
+        "hostname": "https://amaqna.azurewebsites.net/qnamaker",
+        "id": "109"
+      },
+      {
+        "appId": "7f2bde89-fce5-442a-b1d4-1a686c641f5b",
+        "authoringKey": "dd0e9b8d4973410f902f435f05a82028",
+        "subscriptionKey": "dd0e9b8d4973410f902f435f05a82028",
+        "version": "Dispatch",
+        "region": "westus",
+        "type": "dispatch",
+        "name": "AMAAirlinesDispatch"
+      }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
