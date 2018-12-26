@@ -1,68 +1,11 @@
 ﻿# AMAAirlines
 
-This bot is a simple bot that accepts input from the user and echoes it back.
-This bot has been created using [Microsoft Bot Framework][1], 
+﻿# Integrate LUIS, QnA Maker & Personality Chat in your Bot
 
-# Prerequisites
-- [Visual Studio 2017 15.7][2] or newer installed.
-- [.Net Core 2.1][3] or higher installed.  
-- [Bot Framework Emulator 4.1][6] or newer installed
+This code shows how to utilize the power of LUIS, QnA Maker & Personality Chat with Dialogs in your Bot using latest Bot Framework SDK 4. 
 
-## Azure Deployment Prerequisites
-This bot has prerequisite requirements in order to deploy the bot to Azure.
+Details can be found at my [blog](https://www.arafattehsin.com/blog/integrate-luis-qnamaker-dispatch-part-2/)
 
-This document will enumerate the required prerequisites and show how to install them.
-
-### Overview
-There are a small set of CLI tools that will automate the process of deploying this bot to Azure.  These CLI tools are only require for deployment.  If you only plan to run the bot locally, these prerequisites are not required.
-
-### Prerequisites
-- If you don't have an Azure subscription, create a [free account][10].
-- Install the latest version of the [Azure CLI][11] tool. Version 2.0.52 or higher.
-- Install the latest `botservice` extension for the Azure CLI tool. Version 0.4.3 or higher.
-    1. Ensure any previous version of the `botservice` extension is removed.
-        ```bash
-        az extension remove -n botservice
-        ```
-    1. Install the latest `botservice` extension.
-        ```bash
-        az extension add -n botservice
-        ```
-    1. Verify you are running version 0.4.3 or higher of the `botservice` extension.
-        ```bash
-        az extension list
-        ```
-        To verify the extension version, you should see the following:
-        ```json
-        {
-            "extensionType": "whl",
-            "name": "botservice",
-            "version": "0.4.3"
-        }
-        ```
-- Install latest version of the `MSBot` CLI tool. Version 4.2.0 or higher.
-
-# Running Locally
-
-## Visual Studio
-- Open AMAAirlines.csproj in Visual Studio.
-- Run the project (press `F5` key).
-
-## Testing the bot using Bot Framework Emulator
-[Microsoft Bot Framework Emulator][5] is a desktop application that allows bot 
-developers to test and debug their bots on localhost or running remotely through a tunnel.
-- Install the [Bot Framework emulator][6].
-
-## Connect to bot using Bot Framework Emulator **V4**
-- Launch the Bot Framework Emulator.
-- File -> Open bot and open [AMAAirlines.bot](AMAAirlines.bot).
-
-# Deploy the bot to Azure
-See [Deploy your C# bot to Azure][50] for instructions.
-
-The deployment process assumes you have an account on Microsoft Azure and are able to log into the [Microsoft Azure Portal][60].
-
-If you are new to Microsoft Azure, please refer to [Getting started with Azure][70] for guidance on how to get started on Azure.
 
 # Further reading
 * [Bot Framework Documentation][80]
