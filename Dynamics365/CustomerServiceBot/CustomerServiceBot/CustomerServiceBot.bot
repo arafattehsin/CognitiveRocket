@@ -1,0 +1,28 @@
+{
+    "name": "CustomerServiceBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+        {
+            "type": "generic",
+            "name": "CRMCredentials",
+          "configuration": {
+            "serviceUrl": "https://yourowndynamics.crm.dynamics.com/",
+            "clientId": "<your app key>",
+            "redirectUrl": "https://localhost",
+            "key": "<your app key>",
+            "authEndpoint": "https://login.microsoftonline.com/<yourappauthendpoint>"
+          },
+          "id": "204"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
