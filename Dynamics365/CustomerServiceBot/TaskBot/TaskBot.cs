@@ -84,14 +84,15 @@ namespace TaskBot
 
                     // This could be saved in UserState object and retrieve as per the requirement. 
                     // For demo purposes, I am just using the hard-coded one. 
-                    string userId = "<your staff userid>";
+                    string userId = "<bank staff user id>";
                     var customer = await FlowHelper.GetFlowOutput(userId);
                     string imageUrl = $"https://dev.virtualearth.net/REST/v1/Imagery/Map/Road/{customer.Address}/16?key=<bingmapskey>";
+                    string processedImage = MapMaker.Process(imageUrl, "map");
 
                     // There's an issue which will be looked by the community. 
                     //Button button = new Button();
                     //button.Title = "Navigate";
-                    //button.OpenUrlAction = new OpenUrlAction() { Url = "https://www.arafattehsin.com/blog" };
+                    //button.OpenUrlAction = new OpenUrlAction() { Url = "https://www.arafattehsin.com/" };
                     //Button[] buttons = { button };
 
                     var card = new GoogleBasicCard()
