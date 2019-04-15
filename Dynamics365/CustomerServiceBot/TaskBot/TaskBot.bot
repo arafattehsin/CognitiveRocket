@@ -1,0 +1,24 @@
+{
+    "name": "TaskBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "1",
+            "name": "development"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": "https://b9d3d27d.ngrok.io/api/messages",
+            "name": "Bot",
+            "id": "210"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\Arafat\\source\\repos\\CognitiveRocket\\Dynamics365\\CustomerServiceBot\\TaskBot\\TaskBot.bot",
+    "overrides": null
+}
