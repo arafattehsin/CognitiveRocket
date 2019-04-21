@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="UWPApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWPApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="10, 10, 10, 10">
+        <!--Used to display a preview of the video stream from the camera-->
+        <CaptureElement x:Name="VideoPreview" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+            <StackPanel.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="FontSize" Value="18"/>
+                    <Setter Property="Margin" Value="5"/>
+                </Style>
+            </StackPanel.Resources>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <!--displays the score from the model-->
+                <TextBlock Text="Score - "><Run Text="Dummy" x:Name="Result"/></TextBlock>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

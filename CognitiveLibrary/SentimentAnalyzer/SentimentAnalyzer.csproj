@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Description>Semantic Analyzer is an on-device (offline) open-source library to find out what customers think of your brand or topic by analyzing raw text for clues about positive or negative sentiment. This library returns a sentiment probability and score along with the prediction flags (true for Positive, false for Negative). Powered by ML.NET (Preview)</Description>
+    <Authors>Arafat Tehsin</Authors>
+    <Copyright>Copyright © 2019</Copyright>
+    <PackageLicenseUrl>https://github.com/arafattehsin/CognitiveRocket/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageTags>Sentiment, ML.NET, Text Analytics</PackageTags>
+    <PackageReleaseNotes>This release contains the first package that holds the Sentiment Analyzer using the ML.NET Preview version.</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.0.0-preview" />
+  </ItemGroup>
+
+</Project>
