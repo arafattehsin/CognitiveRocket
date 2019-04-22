@@ -1,14 +1,28 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
-    <Description>Semantic Analyzer is an on-device (offline) open-source library to find out what customers think of your brand or topic by analyzing raw text for clues about positive or negative sentiment. This library returns a sentiment probability and score along with the prediction flags (true for Positive, false for Negative). Powered by ML.NET (Preview)</Description>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.3</Version>
     <Authors>Arafat Tehsin</Authors>
+    <Company>Arafat Tehsin</Company>
+    <Description>Semantic Analyzer is an on-device (offline) open-source library to find out what customers think of your brand or topic by analyzing raw text for clues about positive or negative sentiment. This library returns a sentiment probability and score along with the prediction flags (true for Positive, false for Negative). Powered by ML.NET (Preview)</Description>
     <Copyright>Copyright © 2019</Copyright>
     <PackageLicenseUrl>https://github.com/arafattehsin/CognitiveRocket/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/arafattehsin/CognitiveRocket/tree/master/CognitiveLibrary/SentimentAnalyzer</RepositoryUrl>
     <PackageTags>Sentiment, ML.NET, Text Analytics</PackageTags>
-    <PackageReleaseNotes>This release contains the first package that holds the Sentiment Analyzer using the ML.NET Preview version.</PackageReleaseNotes>
+    <PackageReleaseNotes>This release contains the first package for .NET Standard 2.0 that holds the Sentiment Analyzer using the ML.NET Preview version.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MLModels\SentimentModel.zip" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="MLModels\SentimentModel.zip">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.ML" Version="1.0.0-preview" />
