@@ -2,16 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.3</Version>
+    <Version>1.1.0</Version>
     <Authors>Arafat Tehsin</Authors>
     <Company>Arafat Tehsin</Company>
-    <Description>Semantic Analyzer is an on-device (offline) open-source library to find out what customers think of your brand or topic by analyzing raw text for clues about positive or negative sentiment. This library returns a sentiment probability and score along with the prediction flags (true for Positive, false for Negative). Powered by ML.NET (Preview)</Description>
+    <Description>Semantic Analyzer is an on-device (offline) open-source library to find out what customers think of your brand or topic by analyzing raw text for clues about positive or negative sentiment. This library returns a sentiment probability and score along with the prediction flags (true for Positive, false for Negative). Powered by ML.NET (1.3)</Description>
     <Copyright>Copyright © 2019</Copyright>
-    <PackageLicenseUrl>https://github.com/arafattehsin/CognitiveRocket/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
     <RepositoryUrl>https://github.com/arafattehsin/CognitiveRocket/tree/master/CognitiveLibrary/SentimentAnalyzer</RepositoryUrl>
     <PackageTags>Sentiment, ML.NET, Text Analytics</PackageTags>
-    <PackageReleaseNotes>This release contains the first package for .NET Standard 2.0 that holds the Sentiment Analyzer using the ML.NET Preview version.</PackageReleaseNotes>
+    <PackageReleaseNotes>This release contains the first package for .NET Standard 2.0 that holds the Sentiment Analyzer using the ML.NET CLI (AutoML)</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/arafattehsin/CognitiveRocket</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,13 +21,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="MLModels\SentimentModel.zip">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </EmbeddedResource>
+    <EmbeddedResource Include="MLModels\SentimentModel.zip" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.ML" Version="1.0.0-preview" />
+    <PackageReference Include="Microsoft.ML" Version="1.3.1" />
   </ItemGroup>
 
 </Project>

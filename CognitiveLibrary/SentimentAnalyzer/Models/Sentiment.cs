@@ -5,9 +5,11 @@ namespace SentimentAnalyzer.Models
 {
     public class Sentiment
     {
-        [LoadColumn(0)]
+        [ColumnName("col0"), LoadColumn(0)]
+        public string Col0 { get; set; }
+
+
+        [ColumnName("Label"), LoadColumn(1)]
         public bool Label { get; set; }
-        [LoadColumn(5)]
-        public string Text { get; set; }
     }
 }

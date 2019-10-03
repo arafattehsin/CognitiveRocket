@@ -19,7 +19,7 @@ namespace SentimentAnalyzer
             var stream = assembly.GetManifestResourceStream("SentimentAnalyzer.MLModels.SentimentModel.zip");
 
             var mlContext = new MLContext(seed: 1);
-            Sentiment statement = new Sentiment { Text = text };
+            Sentiment statement = new Sentiment { Col0 = text };
             ITransformer trainedModel = mlContext.Model.Load(stream, out var modelInputSchema);
 
             // Create prediction engine related to the loaded trained model
