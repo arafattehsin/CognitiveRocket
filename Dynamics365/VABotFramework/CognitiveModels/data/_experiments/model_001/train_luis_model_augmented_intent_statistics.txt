@@ -1,0 +1,5 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_ATBankLUIS	14	33.14286	48	22	7.69472
+1	l_DynamicsVA	498	24.27108	88	2	10.87282
+2	None	2	32	35	29	4.24264
+ 	__ALL__	514	24.5428	88	2	10.87995

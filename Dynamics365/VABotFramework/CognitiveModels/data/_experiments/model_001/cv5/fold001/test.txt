@@ -1,0 +1,104 @@
+Label	Weight	Text
+l_ATBankLUIS	1	how much money is left in my account
+l_ATBankLUIS	1	i want to transfer some funds
+l_ATBankLUIS	1	can you please tell me about the account balance
+l_DynamicsVA	1	Membership credit card apply
+l_DynamicsVA	1	My account payment online
+l_DynamicsVA	1	Thank you and have a great day
+l_DynamicsVA	1	How far is your nearest location
+l_DynamicsVA	1	How do I pay my bill
+l_DynamicsVA	1	Hello madam
+l_DynamicsVA	1	I need help finding a store locator
+l_DynamicsVA	1	Thanks for help good bye
+l_DynamicsVA	1	I will do something later. Thanks, Goodbye
+l_DynamicsVA	1	Hello how are you
+l_DynamicsVA	1	How to login to and pay
+l_DynamicsVA	1	Thank you for your help! Goodbye!
+l_DynamicsVA	1	How to add person to order pickup
+l_DynamicsVA	1	Need help applying for a credit card
+l_DynamicsVA	1	Pay card
+l_DynamicsVA	1	Payment account
+l_DynamicsVA	1	Online scheduler
+l_DynamicsVA	1	Thanks. Goodbye
+l_DynamicsVA	1	Fast store pick up
+l_DynamicsVA	1	Hello, I want to rejoin to chat with expert
+l_DynamicsVA	1	Thank you so much bye bye
+l_DynamicsVA	1	Can u provide me a customer support to discuss about technical issue
+l_DynamicsVA	1	Have a good day
+l_DynamicsVA	1	Website store location
+l_DynamicsVA	1	How can I schedule an appointment
+l_DynamicsVA	1	Closest store
+l_DynamicsVA	1	Do you close on Sunday
+l_DynamicsVA	1	Manage account ID
+l_DynamicsVA	1	How can I cancel my upcoming appointments
+l_DynamicsVA	1	Can I speak to a representative
+l_DynamicsVA	1	Sorry I got a go to work have a great day
+l_DynamicsVA	1	Hello there, how are you
+l_DynamicsVA	1	How soon can I come for in store pick up
+l_DynamicsVA	1	Holiday hours & closings
+l_DynamicsVA	1	Call back
+l_DynamicsVA	1	Store pickup hours
+l_DynamicsVA	1	Can I pay my bill in the store
+l_DynamicsVA	1	Bill payment
+l_DynamicsVA	1	Manage my account
+l_DynamicsVA	1	Can't find the closest store
+l_DynamicsVA	1	What are your store hours
+l_DynamicsVA	1	Are you open in the morning
+l_DynamicsVA	1	Change your account settings
+l_DynamicsVA	1	Store address look up
+l_DynamicsVA	1	Nearest store location
+l_DynamicsVA	1	Bye bye thanks again
+l_DynamicsVA	1	Cannot view bill
+l_DynamicsVA	1	Help me find the closest store
+l_DynamicsVA	1	What days are you closed
+l_DynamicsVA	1	Glad to talk to you also. Have a nice day.
+l_DynamicsVA	1	Manage account on devices
+l_DynamicsVA	1	See you later
+l_DynamicsVA	1	Good afternoon
+l_DynamicsVA	1	Hey good morning
+l_DynamicsVA	1	Hello there
+l_DynamicsVA	1	Headquarter location
+l_DynamicsVA	1	Thank you have a nice day
+l_DynamicsVA	1	Opening times Christmas
+l_DynamicsVA	1	Store map instruction
+l_DynamicsVA	1	Are you open before 9am
+l_DynamicsVA	1	Pay online bill payment
+l_DynamicsVA	1	Where do I pay my bill
+l_DynamicsVA	1	What is your open hours
+l_DynamicsVA	1	I have trouble paying
+l_DynamicsVA	1	Hi agent
+l_DynamicsVA	1	Thank you so much. Have a nice day!
+l_DynamicsVA	1	Card payment options
+l_DynamicsVA	1	What happens if I don't pick up order
+l_DynamicsVA	1	Payment for card
+l_DynamicsVA	1	Thanks. I'm fine now. Have a good day.
+l_DynamicsVA	1	Sorry bye thx for the help
+l_DynamicsVA	1	Call customer service
+l_DynamicsVA	1	Thank you, see you later.
+l_DynamicsVA	1	Bye
+l_DynamicsVA	1	Where do I check store hours
+l_DynamicsVA	1	Independence Day hours
+l_DynamicsVA	1	Hey !
+l_DynamicsVA	1	Can someone call me
+l_DynamicsVA	1	See you again
+l_DynamicsVA	1	I need to reconnect to a support chat
+l_DynamicsVA	1	Are you open during the holidays
+l_DynamicsVA	1	Contact a person
+l_DynamicsVA	1	Extended holiday hours calendars
+l_DynamicsVA	1	Where is your nearest store
+l_DynamicsVA	1	Store near me
+l_DynamicsVA	1	Opening hours on Easter Monday
+l_DynamicsVA	1	No thank you, bye
+l_DynamicsVA	1	Where do I see the store locator
+l_DynamicsVA	1	Hey :)
+l_DynamicsVA	1	Public holidays shopping hours
+l_DynamicsVA	1	Remind me
+l_DynamicsVA	1	I want to talk to customer service
+l_DynamicsVA	1	Customer service store location
+l_DynamicsVA	1	Store direction
+l_DynamicsVA	1	I will need to talk to you later.
+l_DynamicsVA	1	Where can I make payment
+l_DynamicsVA	1	Make a payment online
+l_DynamicsVA	1	Hello can you help me
+l_DynamicsVA	1	Hello, I need help
+l_DynamicsVA	1	Thanks for your help. Have a great day!!

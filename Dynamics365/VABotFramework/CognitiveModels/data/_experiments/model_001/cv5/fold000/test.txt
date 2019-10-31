@@ -1,0 +1,104 @@
+Label	Weight	Text
+l_ATBankLUIS	1	please transfer 50 bucks to james
+l_ATBankLUIS	1	send 100 dollars to eric
+l_ATBankLUIS	1	i want to send money to my friend
+l_DynamicsVA	1	No, thank you. Have a nice day!
+l_DynamicsVA	1	Where can I find the closest store
+l_DynamicsVA	1	Can't find store locator
+l_DynamicsVA	1	I have no problems. Good bye.
+l_DynamicsVA	1	Hi good evening
+l_DynamicsVA	1	I need to have a live chat session
+l_DynamicsVA	1	I need technical support
+l_DynamicsVA	1	Hello greeting
+l_DynamicsVA	1	Update a user's account information
+l_DynamicsVA	1	Make payment online
+l_DynamicsVA	1	Have a great day. You're doing fine.
+l_DynamicsVA	1	Chat with someone please
+l_DynamicsVA	1	Appointments available dates
+l_DynamicsVA	1	Apply credit card using social security number
+l_DynamicsVA	1	I would like to speak with an associate
+l_DynamicsVA	1	How far is your store
+l_DynamicsVA	1	Hi can you help me
+l_DynamicsVA	1	How far is the closest location
+l_DynamicsVA	1	Change tomorrow appointment
+l_DynamicsVA	1	Store open hours
+l_DynamicsVA	1	Credit card process
+l_DynamicsVA	1	thanks so much
+l_DynamicsVA	1	Appointment
+l_DynamicsVA	1	New Year open hours
+l_DynamicsVA	1	Hello friend
+l_DynamicsVA	1	Set reminder
+l_DynamicsVA	1	Hey how are u
+l_DynamicsVA	1	Contact customer support
+l_DynamicsVA	1	When do you close tomorrow
+l_DynamicsVA	1	What do I need to provide to make credit card application
+l_DynamicsVA	1	Are you open during Christmas eve
+l_DynamicsVA	1	Call me please
+l_DynamicsVA	1	Schedule manager
+l_DynamicsVA	1	Can I get a number
+l_DynamicsVA	1	Thank you. Goodbye
+l_DynamicsVA	1	Connect me to a live agent
+l_DynamicsVA	1	Thx. Goodbye
+l_DynamicsVA	1	Black Friday open hours
+l_DynamicsVA	1	Store search
+l_DynamicsVA	1	Hello, how are you
+l_DynamicsVA	1	I need customer service
+l_DynamicsVA	1	No thanks! Have a nice day!
+l_DynamicsVA	1	Talk with tech support member
+l_DynamicsVA	1	I need to speak with a live argent
+l_DynamicsVA	1	Please help to find the closest store
+l_DynamicsVA	1	Won't let me change my name
+l_DynamicsVA	1	Appointment scheduling
+l_DynamicsVA	1	Thanks good bye
+l_DynamicsVA	1	Where to find store
+l_DynamicsVA	1	Store address
+l_DynamicsVA	1	Same day in store pickup
+l_DynamicsVA	1	Nope. Bye Bye.
+l_DynamicsVA	1	Where is your nearest store in the area
+l_DynamicsVA	1	Online pickup in store
+l_DynamicsVA	1	Pay my bill
+l_DynamicsVA	1	Can you direct me to your store
+l_DynamicsVA	1	Hello virtual agent
+l_DynamicsVA	1	Hello how are you doing
+l_DynamicsVA	1	Check bill
+l_DynamicsVA	1	International store location
+l_DynamicsVA	1	Chat with agent
+l_DynamicsVA	1	restart
+l_DynamicsVA	1	When do you close during the weekend
+l_DynamicsVA	1	Hi I hope you can help me
+l_DynamicsVA	1	Can I schedule a call
+l_DynamicsVA	1	Holiday closing
+l_DynamicsVA	1	Contact number
+l_DynamicsVA	1	Hi good afternoon
+l_DynamicsVA	1	Thank you and goodbye!
+l_DynamicsVA	1	I would like to talk to a technician
+l_DynamicsVA	1	Do you close earlier over the weekend
+l_DynamicsVA	1	I need tech assistance
+l_DynamicsVA	1	I’d like to schedule an appointment
+l_DynamicsVA	1	Contact agent
+l_DynamicsVA	1	Have a good night
+l_DynamicsVA	1	Bye for now
+l_DynamicsVA	1	Contact with human
+l_DynamicsVA	1	Hello, good morning
+l_DynamicsVA	1	Store hours change
+l_DynamicsVA	1	Nope thank you have a nice day bye
+l_DynamicsVA	1	Nice to talk to you too.bye.
+l_DynamicsVA	1	Have a wonderful day :)
+l_DynamicsVA	1	Hi support
+l_DynamicsVA	1	Payment unsuccessful
+l_DynamicsVA	1	Talk to a person
+l_DynamicsVA	1	Make payment
+l_DynamicsVA	1	How long do you have to pick up items at
+l_DynamicsVA	1	Can I call
+l_DynamicsVA	1	When will it be available for store pick up
+l_DynamicsVA	1	start over
+l_DynamicsVA	1	Pick-up in-store program
+l_DynamicsVA	1	Hello, good evening
+l_DynamicsVA	1	Could some one contact me by phone
+l_DynamicsVA	1	Thank you Bye
+l_DynamicsVA	1	Thanks good by
+l_DynamicsVA	1	Credit pay bill
+l_DynamicsVA	1	Making payment on my account
+l_DynamicsVA	1	Account management help
+l_DynamicsVA	1	Help paying card
+l_DynamicsVA	1	Set up bill payment

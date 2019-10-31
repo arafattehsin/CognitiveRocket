@@ -1,0 +1,104 @@
+Label	Weight	Text
+l_ATBankLUIS	1	how many bucks are left in my account
+l_ATBankLUIS	1	transfer my salary to my saving account
+l_ATBankLUIS	1	may i know the balance
+l_DynamicsVA	1	Scheduling service appointment
+l_DynamicsVA	1	Hi I need help here
+l_DynamicsVA	1	Customer representative
+l_DynamicsVA	1	Credit card pre-approved
+l_DynamicsVA	1	Credit cards offers
+l_DynamicsVA	1	Where do I need to pick up
+l_DynamicsVA	1	Pay online
+l_DynamicsVA	1	Same here. Have a great day
+l_DynamicsVA	1	Is it ok to pick up my order after 9pm
+l_DynamicsVA	1	Are you open now
+l_DynamicsVA	1	How do I change my appointment for today
+l_DynamicsVA	1	Can I get real agent support
+l_DynamicsVA	1	Schedule and manage appointments
+l_DynamicsVA	1	Are you open past 9
+l_DynamicsVA	1	Manage membership account
+l_DynamicsVA	1	Pay for some bills
+l_DynamicsVA	1	I want to pick up instead of shipping to me
+l_DynamicsVA	1	Thanks, have a good night
+l_DynamicsVA	1	Update my photo and account information
+l_DynamicsVA	1	Hello support
+l_DynamicsVA	1	Pay off card
+l_DynamicsVA	1	Are you open on Sunday
+l_DynamicsVA	1	Hello I need help
+l_DynamicsVA	1	Thank you I will have a look
+l_DynamicsVA	1	Pick up location
+l_DynamicsVA	1	Do you have in store pickup
+l_DynamicsVA	1	Talk to someone
+l_DynamicsVA	1	Appointment manager
+l_DynamicsVA	1	Got disconnected from help chat with a person
+l_DynamicsVA	1	Credit card identification
+l_DynamicsVA	1	Issue finding the closest store
+l_DynamicsVA	1	Have a nice day
+l_DynamicsVA	1	How to schedule appointment
+l_DynamicsVA	1	Phone payment
+l_DynamicsVA	1	I want to proceed with live support
+l_DynamicsVA	1	I need a customer service number
+l_DynamicsVA	1	Where can I find a store locator
+l_DynamicsVA	1	What is store pick up
+l_DynamicsVA	1	I need help from a person
+l_DynamicsVA	1	Online payment Pay a bill
+l_DynamicsVA	1	Make an appointment
+l_DynamicsVA	1	Call was discontinued with support
+l_DynamicsVA	1	How many locations
+l_DynamicsVA	1	Daily open hours
+l_DynamicsVA	1	Update my email account information
+l_DynamicsVA	1	How to apply credit card
+l_DynamicsVA	1	Reception hours
+l_DynamicsVA	1	No, thanks very much. Have a nice day.
+l_DynamicsVA	1	Schedule appointment online
+l_DynamicsVA	1	Hi how are you
+l_DynamicsVA	1	How many hours do you open
+l_DynamicsVA	1	What days are you open
+l_DynamicsVA	1	Who can come to store pick up
+l_DynamicsVA	1	Customer bill pay
+l_DynamicsVA	1	Closest store near me
+l_DynamicsVA	1	Holiday schedule
+l_DynamicsVA	1	Hi support team
+l_DynamicsVA	1	Manage and schedule
+l_DynamicsVA	1	I disconnect from live agent, please reconnect me to him
+l_DynamicsVA	1	Same here. Bye for now...
+l_DynamicsVA	1	Thank you, have a good day.
+l_DynamicsVA	1	Order online and pick up
+l_DynamicsVA	1	Purchase items online and pick them up at a store location as early as the same day
+l_DynamicsVA	1	Are you open during Christmas
+l_DynamicsVA	1	How to start a pick up order
+l_DynamicsVA	1	How do I change phone number in app
+l_DynamicsVA	1	Apply credit card online
+l_DynamicsVA	1	Debit card payment
+l_DynamicsVA	1	Unable to view bill
+l_DynamicsVA	1	Thank you by for now thanks for your help,
+l_DynamicsVA	1	Where is your store
+l_DynamicsVA	1	Need help finding the closest store
+l_DynamicsVA	1	I need to talk to a specialist please
+l_DynamicsVA	1	Schedule appointment for tomorrow at 9
+l_DynamicsVA	1	Is there a store locator
+l_DynamicsVA	1	Where’s the store
+l_DynamicsVA	1	Remind me of task/appointment
+l_DynamicsVA	1	Thanksgiving open hours
+l_DynamicsVA	1	What do I need for pick up
+l_DynamicsVA	1	Hello, how are you doing today
+l_DynamicsVA	1	Chat with a human
+l_DynamicsVA	1	Hello good afternoon
+l_DynamicsVA	1	What are my appointments
+l_DynamicsVA	1	Do you close at noon
+l_DynamicsVA	1	Online bill payment
+l_DynamicsVA	1	Purchase and pick up
+l_DynamicsVA	1	Online bill pays
+l_DynamicsVA	1	Store locator
+l_DynamicsVA	1	Can I get in touch with someone else
+l_DynamicsVA	1	Thank for talking me have a nice day
+l_DynamicsVA	1	Mobile manage account
+l_DynamicsVA	1	Hours and holiday closure
+l_DynamicsVA	1	How to change appointment
+l_DynamicsVA	1	Hey man
+l_DynamicsVA	1	I have lost contact with live chat support, can you reconnect me
+l_DynamicsVA	1	ty
+l_DynamicsVA	1	Having issue finding the closest store
+l_DynamicsVA	1	US store location
+l_DynamicsVA	1	Stores open
+l_DynamicsVA	1	Holidays and trading hours

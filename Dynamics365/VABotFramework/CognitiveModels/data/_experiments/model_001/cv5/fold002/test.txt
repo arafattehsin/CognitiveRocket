@@ -1,0 +1,104 @@
+Label	Weight	Text
+l_ATBankLUIS	1	what's the balance of my current account
+l_ATBankLUIS	1	i want to make transfer
+l_ATBankLUIS	1	send 20 dollars to my dad's account
+l_DynamicsVA	1	Hello sir
+l_DynamicsVA	1	Cannot contact the support contact number listed
+l_DynamicsVA	1	Are you open at noon
+l_DynamicsVA	1	Thanks. I will end the chat now.
+l_DynamicsVA	1	Contact someone
+l_DynamicsVA	1	Where is the closest store near me
+l_DynamicsVA	1	Bye until later!
+l_DynamicsVA	1	Manage account information
+l_DynamicsVA	1	Why can't I find a store locator
+l_DynamicsVA	1	Connect me to a person
+l_DynamicsVA	1	Online appointment service
+l_DynamicsVA	1	Make a payment to credit card
+l_DynamicsVA	1	Weekend open hours
+l_DynamicsVA	1	Make payment on my account
+l_DynamicsVA	1	Not at the moment. Thanks and have a nice day.
+l_DynamicsVA	1	None of the above. Goodbye
+l_DynamicsVA	1	Payment store credit card
+l_DynamicsVA	1	Profile and account info
+l_DynamicsVA	1	When do you close on Monday
+l_DynamicsVA	1	Where is the closes store
+l_DynamicsVA	1	July 4th shopping hours
+l_DynamicsVA	1	Can an agent call me
+l_DynamicsVA	1	How far away is your store
+l_DynamicsVA	1	Set a reminder for appointment
+l_DynamicsVA	1	I want to get information on store pick up
+l_DynamicsVA	1	Manage credit card account
+l_DynamicsVA	1	How to cancel appointment
+l_DynamicsVA	1	Store pick up is unavailable
+l_DynamicsVA	1	Upcoming appointments
+l_DynamicsVA	1	Call support
+l_DynamicsVA	1	How long does it take to get to the store by car
+l_DynamicsVA	1	Hi good day
+l_DynamicsVA	1	Hi I need help
+l_DynamicsVA	1	Request to update my account information
+l_DynamicsVA	1	Same day pickup
+l_DynamicsVA	1	Payment online
+l_DynamicsVA	1	Manage appointments for today
+l_DynamicsVA	1	Credit card pay account
+l_DynamicsVA	1	I have issue finding the closest store
+l_DynamicsVA	1	Pickup my order in store
+l_DynamicsVA	1	Need to pay bill
+l_DynamicsVA	1	Apply credit card using SSN
+l_DynamicsVA	1	Pay off my card
+l_DynamicsVA	1	What information do i need to pay
+l_DynamicsVA	1	How can I manage my appointment
+l_DynamicsVA	1	Cancel my appointment
+l_DynamicsVA	1	Store finder
+l_DynamicsVA	1	Hello team
+l_DynamicsVA	1	Make online payment
+l_DynamicsVA	1	Bill payment services
+l_DynamicsVA	1	Create a reminder
+l_DynamicsVA	1	Christmas open hours
+l_DynamicsVA	1	Pickup orders
+l_DynamicsVA	1	Why can't I find the closest store
+l_DynamicsVA	1	Pickup in store time
+l_DynamicsVA	1	Request an appointment
+l_DynamicsVA	1	I want to speak with a live tech
+l_DynamicsVA	1	When do you close during the week
+l_DynamicsVA	1	Hello my friend
+l_DynamicsVA	1	Customer agent
+l_DynamicsVA	1	Good bye
+l_DynamicsVA	1	Manage existing account
+l_DynamicsVA	1	Payment direct debit
+l_DynamicsVA	1	Make a payment
+l_DynamicsVA	1	Payment options
+l_DynamicsVA	1	Can I have a representative call me
+l_DynamicsVA	1	Finding stores near me
+l_DynamicsVA	1	Where is the store locator
+l_DynamicsVA	1	Hi
+l_DynamicsVA	1	Chat with a representative
+l_DynamicsVA	1	No thank you good bye
+l_DynamicsVA	1	Find store location near me
+l_DynamicsVA	1	Credit card bill pay
+l_DynamicsVA	1	Setup a payment
+l_DynamicsVA	1	Find me your nearest store
+l_DynamicsVA	1	How do I make payments
+l_DynamicsVA	1	Ok thanks see u later
+l_DynamicsVA	1	No, thanks for your help, good-bye.
+l_DynamicsVA	1	Hey I need help
+l_DynamicsVA	1	How do I find your store
+l_DynamicsVA	1	I can log in to my customer account, but can't view bill or any other account info
+l_DynamicsVA	1	Update profile information for my account
+l_DynamicsVA	1	Are you open during Christmas day
+l_DynamicsVA	1	Bye now
+l_DynamicsVA	1	let's begin again
+l_DynamicsVA	1	Store card make a payment online
+l_DynamicsVA	1	Sorry i have to go. Bye
+l_DynamicsVA	1	Are you open before noon
+l_DynamicsVA	1	What do I need for credit card application
+l_DynamicsVA	1	Can I use my temporary credit card online
+l_DynamicsVA	1	Where is the nearest store
+l_DynamicsVA	1	When can I pick my order
+l_DynamicsVA	1	Talk to agent
+l_DynamicsVA	1	Hey
+l_DynamicsVA	1	Account setting management
+l_DynamicsVA	1	Hello good evening
+l_DynamicsVA	1	Will you be open on Sunday
+l_DynamicsVA	1	Can I talk to a human assistant
+l_DynamicsVA	1	I need phone number
+l_DynamicsVA	1	Nearest location

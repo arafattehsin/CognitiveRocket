@@ -1,0 +1,111 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "1.0",
+  "name": "AT Bank",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "CheckBalance"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "TransferFunds"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "can you please tell me about the account balance?",
+      "intent": "CheckBalance",
+      "entities": []
+    },
+    {
+      "text": "how many bucks are left in my account?",
+      "intent": "CheckBalance",
+      "entities": []
+    },
+    {
+      "text": "how many stars are there in the sky?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how much money is left in my account?",
+      "intent": "CheckBalance",
+      "entities": []
+    },
+    {
+      "text": "i want to make transfer",
+      "intent": "TransferFunds",
+      "entities": []
+    },
+    {
+      "text": "i want to send money to my friend",
+      "intent": "TransferFunds",
+      "entities": []
+    },
+    {
+      "text": "i want to transfer some funds",
+      "intent": "TransferFunds",
+      "entities": []
+    },
+    {
+      "text": "may i know the balance?",
+      "intent": "CheckBalance",
+      "entities": []
+    },
+    {
+      "text": "please transfer 50 bucks to james",
+      "intent": "TransferFunds",
+      "entities": []
+    },
+    {
+      "text": "send 100 dollars to eric",
+      "intent": "TransferFunds",
+      "entities": []
+    },
+    {
+      "text": "send 20 dollars to my dad's account",
+      "intent": "TransferFunds",
+      "entities": []
+    },
+    {
+      "text": "transfer my salary to my saving account",
+      "intent": "TransferFunds",
+      "entities": []
+    },
+    {
+      "text": "what is the current status of my balance?",
+      "intent": "CheckBalance",
+      "entities": []
+    },
+    {
+      "text": "what's my current balance?",
+      "intent": "CheckBalance",
+      "entities": []
+    },
+    {
+      "text": "what's the balance of my current account?",
+      "intent": "CheckBalance",
+      "entities": []
+    },
+    {
+      "text": "what's the weather like today?",
+      "intent": "None",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

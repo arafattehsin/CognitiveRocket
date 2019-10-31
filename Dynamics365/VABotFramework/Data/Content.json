@@ -1,0 +1,2566 @@
+{
+  "intents": [
+    {
+      "name": "Greeting"
+    },
+    {
+      "name": "Escalate"
+    },
+    {
+      "name": "End of Conversation"
+    },
+    {
+      "name": "Confirmed Success"
+    },
+    {
+      "name": "Confirmed Failure"
+    },
+    {
+      "name": "Goodbye"
+    },
+    {
+      "name": "Start over"
+    },
+    {
+      "name": "Thank you"
+    },
+    {
+      "name": "Store Hours"
+    },
+    {
+      "name": "Pay bill"
+    },
+    {
+      "name": "Store locations"
+    },
+    {
+      "name": "Reminders for appointments"
+    },
+    {
+      "name": "Manage my account"
+    },
+    {
+      "name": "Store pickup guidelines"
+    },
+    {
+      "name": "Issue with viewing bill"
+    },
+    {
+      "name": "Apply for credit card"
+    },
+    {
+      "name": "Schedule and manage appointments"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "regex_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "Good afternoon",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Good morning",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello agent!",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello and good morning to you",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello can you help me?",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello can you please help me",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello friend",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello good afternoon",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello good evening",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello greeting",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello how are you",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello how are you doing?",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello how are you?",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello I need help",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello madam",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello my friend",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello sir",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello support",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello team",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello there",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello there, how are you?",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello virtual agent",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello!",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello, good day to you",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello, good evening",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello, good morning",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello, how are you doing today?",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello, how are you?",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello, I need help",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hey",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hey !",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hey :)",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hey good morning",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hey how are u",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hey I need help",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hey man",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi agent",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi can you help me",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi good afternoon",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi good day",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi good evening",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi how are you",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi how are you doing today?",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi I hope you can help me",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi I need help",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi I need help here",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi support",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi support team",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi there!",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi virtual agent",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Talk to agent",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Talk to a person",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Talk to someone",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Call back",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Call customer service",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Call me please",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Call support",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Call technical support",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Call was discontinued with support",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can an agent call me",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I call",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I connect to my previous agent",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I get a number",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I get in touch with someone else",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I get real agent support",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I get transferred to a person to call",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I have a call in number Or can I be called",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I have a representative call me",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I schedule a call",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I speak to a representative",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I talk to a human",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can I talk to a human assistant",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can someone call me",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Can u provide me a customer support to discuss about technical issue",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Cannot contact the support contact number listed",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Chat with a human",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Chat with a representative",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Chat with agent",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Chat with someone please",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Chat with support",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Connect me to a live agent",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Connect me to a person",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Contact a person",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Contact agent",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Contact customer support",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Contact number",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Contact someone",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Contact with human",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Could some one contact me by phone",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Customer agent",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Customer representative",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Customer service",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Got disconnected from help chat with a person",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Hello, I want to rejoin to chat with expert",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I disconnect from live agent, please reconnect me to him",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I have lost contact with live chat support, can you reconnect me",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need a customer service number",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need a manager to contact me",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need customer service",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need help from a person",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need phone number",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need tech assistance",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need technical support",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need to have a live chat session",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need to reconnect to a support chat",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need to speak with a live argent",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I need to talk to a specialist please",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I want to talk to customer service",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I want to proceed with live support",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I want to speak with a consultant",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I want to talk to Enforcement",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I want to speak with a live tech",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I would like to speak with an associate",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "I would like to talk to a technician",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Talk with tech support member",
+      "intent": "Escalate",
+      "entities": []
+    },
+    {
+      "text": "Bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Bye bye thanks again",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Bye for now",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Bye now",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Bye until later!",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Glad to talk to you also. Have a nice day.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Good bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Have a good day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Have a good night",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Have a great day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Have a great day. You're doing fine.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Have a nice day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Have a wonderful day :)",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "I have no problems. Good bye.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "I will do something later. Thanks, Goodbye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "I will need to talk to you later.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Nice to talk to you too.bye.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "No thank you have a good night",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "No thank you good bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "No thank you, bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "No thank you. Goodbye.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "No thanks! Have a nice day!",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "No, thank you. Have a nice day!",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "No, thanks for your help, good-bye.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "No, thanks very much. Have a nice day.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "None of the above. Goodbye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Nope i'm all good thanks and goodbye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Nope thank you have a nice day bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Nope. Bye Bye.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Not at the moment. Thanks and have a nice day.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Not helpful. Goodbye.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Ok thanks and have a great day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Ok thanks see u later",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Perfect! Have a great day!",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Same here. Have a great day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Same here. Bye for now...",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "See you again",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "See you later",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Sorry bye thx for the help",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Sorry I got a go to work have a great day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Sorry i have to go. Bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Take care and have a great day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank for talking me have a nice day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you Bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you and goodbye!",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you and have a great day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you by for now thanks for your help,",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you for your help! Goodbye!",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you have a nice day",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you I will have a look",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you so much bye bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you so much. Have a nice day!",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you, have a good day.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you, see you later.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you. Goodbye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thank you. Bye.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks for help good bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks for helping goodbye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks for your help. Goodbye..",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks for your help. Have a great day!!",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks good by",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks good bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks, have a good night",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks. Goodbye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks. I will end the chat now.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thanks. I'm fine now. Have a good day.",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "Thx. Goodbye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "start over",
+      "intent": "Start over",
+      "entities": []
+    },
+    {
+      "text": "restart",
+      "intent": "Start over",
+      "entities": []
+    },
+    {
+      "text": "let's begin again",
+      "intent": "Start over",
+      "entities": []
+    },
+    {
+      "text": "thanks",
+      "intent": "Thank you",
+      "entities": []
+    },
+    {
+      "text": "thank you",
+      "intent": "Thank you",
+      "entities": []
+    },
+    {
+      "text": "thanks so much",
+      "intent": "Thank you",
+      "entities": []
+    },
+    {
+      "text": "ty",
+      "intent": "Thank you",
+      "entities": []
+    },
+    {
+      "text": "Are you closed now?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open at noon?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open before 9am?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open before noon?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open during Christmas day?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open during Christmas eve?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open during Christmas?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open during the holidays?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open in 30 minutes?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open in the morning?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open now?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open on Sunday?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open on Thanksgiving?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Are you open past 9?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Black Friday open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Christmas open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Daily open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Do you close at noon?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Do you close earlier over the weekend?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Do you close on Sunday?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Extended holiday hours calendars",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Holiday closing",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Holiday hours & closings",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Holiday hours today",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Holiday open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Holiday schedule",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Holidays and trading hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Hours and holiday closure",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Hours of operation holidays",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "How can I know your open hours?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "How many hours do you open?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Independence Day hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Is open today July 4",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "July 4th shopping hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "New Year open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Opening hours on Easter Monday",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Opening times Christmas",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Public holidays shopping hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Reception hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Special holiday hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Store hours change",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Store open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Stores open",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Sunday opening hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Thanksgiving open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Weekday open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Weekend open hours",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "What are your store hours?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "What days are you closed?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "What days are you open?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "What is your open hours?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "When are you open?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "When can I pick my order?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "When do you close during the week?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "When do you close during the weekend?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "When do you close on Monday?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "When do you close today?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "When do you close tomorrow?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Where do I check store hours?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Will you be open on Sunday?",
+      "intent": "Store Hours",
+      "entities": []
+    },
+    {
+      "text": "Bill payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Bill payment services",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Can I pay my bill in the store?",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Can I use my temporary credit card online?",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Card payment options",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Charge pay bill",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Credit card bill pay",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Credit card pay account",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Credit pay bill",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Customer bill pay",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Debit card payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Help paying card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "How do I make payments?",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "How do I pay my bill?",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "How to login to and pay?",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "I have trouble paying",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Make a payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Make a payment online",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Make a payment to credit card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Make online payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Make payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Make payment on my account",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Make payment online",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Making payment on my account",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "My account payment online",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Need to pay bill",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Online bill pay log in",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Online bill payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Online bill pays",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Online payment Pay a bill",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay bill online",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay bill online with debit card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay for some bills",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay my bill",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay off card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay off my card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay off store credit card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay online",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay online bill payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Pay what I owe",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Payment account",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Payment direct debit",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Payment for card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Payment online",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Payment options",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Payment store credit card",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Payment unsuccessful",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Phone payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Set up bill payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Setup a payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Store card make a payment online",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Use multiple payment methods",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "What information do i need to pay?",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Where can I make payment",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Where do I pay my bill?",
+      "intent": "Pay bill",
+      "entities": []
+    },
+    {
+      "text": "Are there any stores around the area?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Can you direct me to your store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Can't find store locator",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Can't find the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Check store location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Closest store near me",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Customer service store location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Find me your nearest location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Find me your nearest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Find store location near me",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Find store locator",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Find the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Finding stores near me",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Having issue finding the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Headquarter location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Help me find the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "How do I find your store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "How far away is your store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "How far is the closest location?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "How far is your closest store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "How far is your nearest location?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "How far is your store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "How long does it take to get to the store by car?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "How many locations?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "I have issue finding the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "I need help finding a store locator",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "International store location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Is there a store locator?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Issue finding the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Nearest location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Nearest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Nearest store location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Need help finding the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Online store locator",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Please help to find the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Someone helps me to find the closest store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store address",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store address look up",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store direction",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store finder",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store location near me",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store locator",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store map",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store map instruction",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store near me",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Store search",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Trouble finding store locator",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "US store location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Website store location",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where can I find a store locator?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where can I find the closest store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where do I see the store locator?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where is the closes store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where is the closest store near me?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where is the nearest store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where is the store locator?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where is your closest store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where is your nearest store in the area?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where is your nearest store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where is your store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where to find store",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Where’s the store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Why can't I find a store locator?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Why can't I find the closest store?",
+      "intent": "Store locations",
+      "entities": []
+    },
+    {
+      "text": "Create a reminder",
+      "intent": "Reminders for appointments",
+      "entities": []
+    },
+    {
+      "text": "Remind me",
+      "intent": "Reminders for appointments",
+      "entities": []
+    },
+    {
+      "text": "Remind me of task/appointment",
+      "intent": "Reminders for appointments",
+      "entities": []
+    },
+    {
+      "text": "Set a reminder for appointment",
+      "intent": "Reminders for appointments",
+      "entities": []
+    },
+    {
+      "text": "Set a reminder to task",
+      "intent": "Reminders for appointments",
+      "entities": []
+    },
+    {
+      "text": "Set reminder",
+      "intent": "Reminders for appointments",
+      "entities": []
+    },
+    {
+      "text": "Account management help",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Account setting management",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Change your account settings",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "How do I change phone number in app?",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage account ID",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage account information",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage account on devices",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage account online",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage business and personal account",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage credit card account",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage existing account",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage membership account",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Manage my account",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Mobile manage account",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Profile and account info",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Request to update my account information",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Sign in to manage account",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Update a user's account information",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Update existing account information form",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Update my email account information",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Update profile information for my account",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Update my photo and account information",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "View and update my information",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Won't let me change my name",
+      "intent": "Manage my account",
+      "entities": []
+    },
+    {
+      "text": "Buy online pick up at store",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Do you have in store pickup?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Fast store pick up",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "How long do I need for pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "How long do you have to pick up items at?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "How soon can I come for in store pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "How to add person to order pickup?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "How to choose store pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "How to start a pick up order?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "I want to get information on store pick up",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "I want to pick up instead of shipping to me",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Is it ok to pick up my order after 9pm?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Is it ready for free in store pickup?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Online pickup in store",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Online pickup time",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Online store pickup",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Order online and pick up",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Order online pickup in store same day",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pay in store pickup",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pick up in store",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pick up instruction",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pick up location",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pick up notification",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pick up time",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pickup FAQ",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pickup in store time",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pick-up in-store program",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pickup my order in store",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Pickup orders",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Place an order and pick it up later from stores at no additional cost.",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Purchase and pick up",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Purchase items online and pick them up at a store location as early as the same day",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Same day in store pickup",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Same day pickup",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Store pick up is unavailable",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Store pickup hours",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "What do I need for pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "What happens if I don't pick up order?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "What is store pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "When do I pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "When will it be available for store pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Where do I need to pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Who can come to store pick up?",
+      "intent": "Store pickup guidelines",
+      "entities": []
+    },
+    {
+      "text": "Cannot view bill",
+      "intent": "Issue with viewing bill",
+      "entities": []
+    },
+    {
+      "text": "Check bill",
+      "intent": "Issue with viewing bill",
+      "entities": []
+    },
+    {
+      "text": "Cleared cookies and history and reset my computer still doesn't allow me to view my bill",
+      "intent": "Issue with viewing bill",
+      "entities": []
+    },
+    {
+      "text": "I can log in to my customer account, but can't view bill or any other account info",
+      "intent": "Issue with viewing bill",
+      "entities": []
+    },
+    {
+      "text": "Unable to view bill",
+      "intent": "Issue with viewing bill",
+      "entities": []
+    },
+    {
+      "text": "Apply credit card online",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Apply credit card using social security number",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Apply credit card using SSN",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Card application status",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Credit card pre-approved",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Credit card process",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Credit card identification",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Credit cards offers",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Explore credit cards",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "How to apply credit card?",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Instant approval credit card",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Membership credit card apply",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Need help applying for a credit card",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Secure credit card application",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "What do I need for credit card application?",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "What do I need to provide to make credit card application?",
+      "intent": "Apply for credit card",
+      "entities": []
+    },
+    {
+      "text": "Appointment",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Appointment manager",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Appointment scheduling",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Appointment scheduling tool",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Appointments available dates",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Can I schedule an appointment?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Cancel my appointment",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Change tomorrow appointment",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "How can I cancel my upcoming appointments?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "How can I manage my appointment?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "How can I schedule an appointment?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "How do I cancel my appointment for tomorrow at 9am?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "How do I change my appointment for today?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "How to cancel appointment?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "How to change appointment?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "How to schedule appointment?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "I’d like to schedule an appointment",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Make an appointment",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Manage and schedule",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Manage appointments for today",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Online appointment service",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Online scheduler",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Request an appointment",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Schedule an advising appointment",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Schedule an appointment in the financial aid office",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Schedule and manage appointments",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Schedule appointment for tomorrow at 9",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Schedule appointment online",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Schedule manager",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Scheduling service appointment",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Upcoming appointments",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "Web appointment scheduling",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    },
+    {
+      "text": "What are my appointments?",
+      "intent": "Schedule and manage appointments",
+      "entities": []
+    }
+  ],
+  "patterns": [],
+  "patternAnyEntities": [],
+  "prebuiltEntities": [],
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.1",
+  "name": "Content",
+  "desc": "",
+  "culture": "en-us"
+}

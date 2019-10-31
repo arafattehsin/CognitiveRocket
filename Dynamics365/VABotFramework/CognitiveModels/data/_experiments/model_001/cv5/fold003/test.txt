@@ -1,0 +1,104 @@
+Label	Weight	Text
+l_ATBankLUIS	1	what is the current status of my balance
+l_ATBankLUIS	1	what's my current balance
+l_ATBankLUIS	1	how many bucks are left in my account
+l_DynamicsVA	1	Pick up instruction
+l_DynamicsVA	1	Not helpful. Goodbye.
+l_DynamicsVA	1	Can I talk to a human
+l_DynamicsVA	1	Online pickup time
+l_DynamicsVA	1	When are you open
+l_DynamicsVA	1	Are there any stores around the area
+l_DynamicsVA	1	Can I schedule an appointment
+l_DynamicsVA	1	Someone helps me to find the closest store
+l_DynamicsVA	1	Hi virtual agent
+l_DynamicsVA	1	Perfect! Have a great day!
+l_DynamicsVA	1	Are you open in 30 minutes
+l_DynamicsVA	1	When do I pick up
+l_DynamicsVA	1	I want to talk to Enforcement
+l_DynamicsVA	1	Online store locator
+l_DynamicsVA	1	Trouble finding store locator
+l_DynamicsVA	1	Can I connect to my previous agent
+l_DynamicsVA	1	Sunday opening hours
+l_DynamicsVA	1	Hello, good day to you
+l_DynamicsVA	1	Card application status
+l_DynamicsVA	1	Call technical support
+l_DynamicsVA	1	Charge pay bill
+l_DynamicsVA	1	Hello
+l_DynamicsVA	1	Pay bill online
+l_DynamicsVA	1	Hello can you please help me
+l_DynamicsVA	1	Ok thanks and have a great day
+l_DynamicsVA	1	thank you
+l_DynamicsVA	1	Store location near me
+l_DynamicsVA	1	Buy online pick up at store
+l_DynamicsVA	1	When do you close today
+l_DynamicsVA	1	Are you closed now
+l_DynamicsVA	1	Find me your nearest location
+l_DynamicsVA	1	Set a reminder to task
+l_DynamicsVA	1	Good morning
+l_DynamicsVA	1	Pay off store credit card
+l_DynamicsVA	1	View and update my information
+l_DynamicsVA	1	Sign in to manage account
+l_DynamicsVA	1	Order online pickup in store same day
+l_DynamicsVA	1	Hi there!
+l_DynamicsVA	1	Pickup FAQ
+l_DynamicsVA	1	Hello and good morning to you
+l_DynamicsVA	1	Schedule an advising appointment
+l_DynamicsVA	1	Manage account online
+l_DynamicsVA	1	Update existing account information form
+l_DynamicsVA	1	Pay in store pickup
+l_DynamicsVA	1	How far is your closest store
+l_DynamicsVA	1	Is open today July 4
+l_DynamicsVA	1	I want to speak with a consultant
+l_DynamicsVA	1	I need a manager to contact me
+l_DynamicsVA	1	thanks
+l_DynamicsVA	1	Pick up in store
+l_DynamicsVA	1	Where is your closest store
+l_DynamicsVA	1	Special holiday hours
+l_DynamicsVA	1	Chat with support
+l_DynamicsVA	1	Pay bill online with debit card
+l_DynamicsVA	1	Store map
+l_DynamicsVA	1	How long do I need for pick up
+l_DynamicsVA	1	How to choose store pick up
+l_DynamicsVA	1	Online bill pay log in
+l_DynamicsVA	1	Use multiple payment methods
+l_DynamicsVA	1	Can I get transferred to a person to call
+l_DynamicsVA	1	Can I have a call in number Or can I be called
+l_DynamicsVA	1	Weekday open hours
+l_DynamicsVA	1	Hello agent!
+l_DynamicsVA	1	Have a great day
+l_DynamicsVA	1	Check store location
+l_DynamicsVA	1	Hello!
+l_DynamicsVA	1	How can I know your open hours
+l_DynamicsVA	1	Take care and have a great day
+l_DynamicsVA	1	Online store pickup
+l_DynamicsVA	1	Appointment scheduling tool
+l_DynamicsVA	1	Thanks for helping goodbye
+l_DynamicsVA	1	Secure credit card application
+l_DynamicsVA	1	No thank you. Goodbye.
+l_DynamicsVA	1	Hello how are you
+l_DynamicsVA	1	No thank you have a good night
+l_DynamicsVA	1	Is it ready for free in store pickup
+l_DynamicsVA	1	Pick up notification
+l_DynamicsVA	1	Hi how are you doing today
+l_DynamicsVA	1	Nope i'm all good thanks and goodbye
+l_DynamicsVA	1	Hours of operation holidays
+l_DynamicsVA	1	Web appointment scheduling
+l_DynamicsVA	1	Customer service
+l_DynamicsVA	1	Explore credit cards
+l_DynamicsVA	1	How do I cancel my appointment for tomorrow at 9am
+l_DynamicsVA	1	Thank you. Bye.
+l_DynamicsVA	1	Find the closest store
+l_DynamicsVA	1	Find store locator
+l_DynamicsVA	1	Pay what I owe
+l_DynamicsVA	1	Instant approval credit card
+l_DynamicsVA	1	Cleared cookies and history and reset my computer still doesn't allow me to view my bill
+l_DynamicsVA	1	Manage business and personal account
+l_DynamicsVA	1	Are you open on Thanksgiving
+l_DynamicsVA	1	Thanks for your help. Goodbye..
+l_DynamicsVA	1	Holiday hours today
+l_DynamicsVA	1	Pick up time
+l_DynamicsVA	1	Place an order and pick it up later from stores at no additional cost.
+l_DynamicsVA	1	Holiday open hours
+l_DynamicsVA	1	Nearest store
+l_DynamicsVA	1	Schedule an appointment in the financial aid office
+l_DynamicsVA	1	Scheduling service appointment

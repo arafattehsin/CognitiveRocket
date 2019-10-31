@@ -1,0 +1,36 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_ATBankLUIS",
+      "appId": "5c59b948-1d46-4411-a160-404c2abe2f2f",
+      "authoringKey": "dd0e9b8d4973410f902f435f05a82028",
+      "version": "1.0",
+      "region": "westus",
+      "type": "luis",
+      "name": "AT Bank",
+      "id": "1"
+    },
+    {
+      "path": "..\\Data\\Content.json",
+      "type": "file",
+      "name": "l_DynamicsVA",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "1442b0f0-039c-4267-902d-9eb13b23f472",
+  "authoringKey": "dd0e9b8d4973410f902f435f05a82028",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "vabotdispatch"
+}
