@@ -1,0 +1,2 @@
+Utterance	Intents
+i am hungry	l_FoodLUIS, q_FoodQnA

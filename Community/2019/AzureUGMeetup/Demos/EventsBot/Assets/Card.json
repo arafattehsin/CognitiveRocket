@@ -1,0 +1,39 @@
+﻿{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "color": "Accent",
+      "text": "Customer Registration"
+    },
+    {
+      "type": "TextBlock",
+      "weight": "Bolder",
+      "color": "Accent",
+      "text": "Information",
+      "wrap": true
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "Name:",
+          "value": "Arafat Tehsin"
+        },
+        {
+          "title": "Phone Number:",
+          "value": "34469667"
+        },
+        {
+          "title": "Email Address:",
+          "value": "arafat@outlook.com"
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0",
+  "backgroundImage": "https://image.freepik.com/free-photo/blur-background-seminar-event-room-with-bokeh-light-background_7189-1510.jpg"
+}

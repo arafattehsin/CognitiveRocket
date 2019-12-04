@@ -1,0 +1,38 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_FoodLUIS",
+      "appId": "22b54256-2d94-4b24-9fa4-f6709bddc421",
+      "authoringKey": "dd0e9b8d4973410f902f435f05a82028",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "FoodApp",
+      "id": "1"
+    },
+    {
+      "intentName": "q_FoodQnA",
+      "kbId": "8deab10b-b63b-4dc0-bff5-e3446745a964",
+      "subscriptionKey": "4c789db4bb3045a88c51f50b31fde89a",
+      "type": "qna",
+      "name": "qandademoservice",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "41dbb2df-52cc-4c86-8433-17a3e0ba78d8",
+  "authoringKey": "dd0e9b8d4973410f902f435f05a82028",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "FoodDispatch"
+}

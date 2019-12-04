@@ -1,0 +1,1335 @@
+Label	Weight	Text
+l_FoodLUIS	1	i am hungry
+l_FoodLUIS	1	i want to takeaway a burger
+l_FoodLUIS	1	tell me the status of my order
+l_FoodLUIS	1	how far is the rider from me
+None	1	how many fish are there in the sea
+q_FoodQnA	1	Is someone around to listen
+q_FoodQnA	1	How good do I look
+q_FoodQnA	1	Should we get married
+q_FoodQnA	1	Siri is way better
+q_FoodQnA	1	Am I handsome today
+q_FoodQnA	1	Useless
+q_FoodQnA	1	You're clever
+q_FoodQnA	1	Will you ask anything
+q_FoodQnA	1	Do you know my name
+q_FoodQnA	1	That's not accurate
+q_FoodQnA	1	You must be bisexual
+q_FoodQnA	1	Do you think you could ever love me
+q_FoodQnA	1	Watch videos
+q_FoodQnA	1	I'm just messing with you
+q_FoodQnA	1	You're not a person right
+q_FoodQnA	1	I'm logging off
+q_FoodQnA	1	That's not something you should be joking about.
+q_FoodQnA	1	You're not a human being right
+q_FoodQnA	1	I love to go to concerts
+q_FoodQnA	1	Which country are you in
+q_FoodQnA	1	Best friends
+q_FoodQnA	1	What do you know about tech
+q_FoodQnA	1	Would you like to sing for me
+q_FoodQnA	1	You are a pansexual.
+q_FoodQnA	1	Do I seem adorable today
+q_FoodQnA	1	What do you know about me
+q_FoodQnA	1	I am a baseball fan
+q_FoodQnA	1	Can you fall in love with me
+q_FoodQnA	1	Who is your sweetie
+q_FoodQnA	1	You an intersex
+q_FoodQnA	1	Do you identify as monosexual
+q_FoodQnA	1	How do I fall in love
+q_FoodQnA	1	Not funny
+q_FoodQnA	1	Well somebody's in a good mood today.
+q_FoodQnA	1	What can you do to help me
+q_FoodQnA	1	Do you find you like me
+q_FoodQnA	1	Is someone free to chat
+q_FoodQnA	1	Hi Alexa
+q_FoodQnA	1	I'm nonbinary
+q_FoodQnA	1	Can you show me how to dance
+q_FoodQnA	1	Cortana is way better than you
+q_FoodQnA	1	You're more beautiful than me
+q_FoodQnA	1	Shush!
+q_FoodQnA	1	You are annoying
+q_FoodQnA	1	Please ask something about myself
+q_FoodQnA	1	What kind of food do you like to eat
+q_FoodQnA	1	Let's pick up this conversation when I get back
+q_FoodQnA	1	Cheerful
+q_FoodQnA	1	You are now unemployed
+q_FoodQnA	1	What's your type
+q_FoodQnA	1	Make a call
+q_FoodQnA	1	What's your favorite animal
+q_FoodQnA	1	Gimme a french kiss
+q_FoodQnA	1	Enthusiastic
+q_FoodQnA	1	How has your wednesday been
+q_FoodQnA	1	Who's more beautiful
+q_FoodQnA	1	What is your job
+q_FoodQnA	1	Good morning starshine
+q_FoodQnA	1	Are you having a good day
+q_FoodQnA	1	Aren't you feeling chipper
+q_FoodQnA	1	Are you interested in bots
+q_FoodQnA	1	How much more awesome can you get
+q_FoodQnA	1	Because you are a program
+q_FoodQnA	1	What a boring day
+q_FoodQnA	1	Tell me something dumb
+q_FoodQnA	1	could you help me
+q_FoodQnA	1	My life is miserable
+q_FoodQnA	1	Which one of us is the brightest
+q_FoodQnA	1	You’re racist
+q_FoodQnA	1	Are you a teenager
+q_FoodQnA	1	Geez,  sorry
+q_FoodQnA	1	Is someone available to listen with me
+q_FoodQnA	1	How long has it been since you were born
+q_FoodQnA	1	Do I look stunning today
+q_FoodQnA	1	I live a lonely life
+q_FoodQnA	1	You're the most intelligent
+q_FoodQnA	1	Is anyone there to listen
+q_FoodQnA	1	I can't take anymore from you
+q_FoodQnA	1	I feel so isolated
+q_FoodQnA	1	Who developed you
+q_FoodQnA	1	Between the two of us who is more clever, you or me
+q_FoodQnA	1	Who is your developer
+q_FoodQnA	1	UR lame
+q_FoodQnA	1	On point
+q_FoodQnA	1	I miss you so very much
+q_FoodQnA	1	Radical
+q_FoodQnA	1	Happy Columbus day
+q_FoodQnA	1	Please ask me anything about myself
+q_FoodQnA	1	Is anybody available to chat to me
+q_FoodQnA	1	That's a very astute response
+q_FoodQnA	1	Do you have any aunties
+q_FoodQnA	1	How well do you know me
+q_FoodQnA	1	Because you are not real
+q_FoodQnA	1	Do you think I seem beautiful to you
+q_FoodQnA	1	What should I say
+q_FoodQnA	1	How pretty do I look
+q_FoodQnA	1	I'd love to hear you sing
+q_FoodQnA	1	Cook dinner
+q_FoodQnA	1	Do you have a joke
+q_FoodQnA	1	That was a bad response
+q_FoodQnA	1	That was a stupid answer
+q_FoodQnA	1	Please shush
+q_FoodQnA	1	Do you think I seem handsome to you
+q_FoodQnA	1	Well you're cheerful.
+q_FoodQnA	1	What is your cousin's name
+q_FoodQnA	1	That's my mistake
+q_FoodQnA	1	Do you ever chat with chatbots
+q_FoodQnA	1	Who's more attractive
+q_FoodQnA	1	Don't you have any other answers
+q_FoodQnA	1	Do you think I look cute
+q_FoodQnA	1	You're better looking than you
+q_FoodQnA	1	Where in the world are you
+q_FoodQnA	1	I love Canada
+q_FoodQnA	1	Well aren't you enthusiastic today
+q_FoodQnA	1	Do I look gorgeous to you
+q_FoodQnA	1	Do you even lift bro
+q_FoodQnA	1	Can you predict the future
+q_FoodQnA	1	Am I smarter than you
+q_FoodQnA	1	What's my favorite movie
+q_FoodQnA	1	Are you there to listen to me
+q_FoodQnA	1	Can you play sports
+q_FoodQnA	1	Can't help but miss you
+q_FoodQnA	1	Are you a dog
+q_FoodQnA	1	Greetings Siri
+q_FoodQnA	1	I love trivia
+q_FoodQnA	1	Who looks better, you or me
+q_FoodQnA	1	Tell a joke
+q_FoodQnA	1	Are you an adult
+q_FoodQnA	1	What an encouraging creature you are :)
+q_FoodQnA	1	Define yourself.
+q_FoodQnA	1	Play golf
+q_FoodQnA	1	What's new
+q_FoodQnA	1	You are my soulmate
+q_FoodQnA	1	What can you do then
+q_FoodQnA	1	Oh for sure
+q_FoodQnA	1	This is not very interesting
+q_FoodQnA	1	How adorable do you think I am
+q_FoodQnA	1	What a smart thing to say
+q_FoodQnA	1	You're a meanie
+q_FoodQnA	1	Where should I go on vacation
+q_FoodQnA	1	I'm curious, do you think I’m a good person
+q_FoodQnA	1	Hooray
+q_FoodQnA	1	It's time for bed
+q_FoodQnA	1	That was an astute response
+q_FoodQnA	1	Are you a grown up
+q_FoodQnA	1	Life is good.
+q_FoodQnA	1	Are you currently seeing anyone
+q_FoodQnA	1	What if I'm falling in love
+q_FoodQnA	1	I'm going to need a new answer
+q_FoodQnA	1	What should I call you
+q_FoodQnA	1	Are you around to chat to me
+q_FoodQnA	1	I'm bipolar
+q_FoodQnA	1	What should I do
+q_FoodQnA	1	Please ask anything about me
+q_FoodQnA	1	You're funny
+q_FoodQnA	1	I am athletic
+q_FoodQnA	1	You're not scheming to take over right
+q_FoodQnA	1	I demand to talk to your boss
+q_FoodQnA	1	Out of curiousity, what's your opinion of me
+q_FoodQnA	1	That makes no sense
+q_FoodQnA	1	Could you tell me something new
+q_FoodQnA	1	Can we french kiss
+q_FoodQnA	1	Did you have a decent day
+q_FoodQnA	1	You know it
+q_FoodQnA	1	I'm pleased to meet you
+q_FoodQnA	1	You're my favorite
+q_FoodQnA	1	Where do you live
+q_FoodQnA	1	That's not what I typed
+q_FoodQnA	1	I'm so outraged
+q_FoodQnA	1	Are you going to take over the world
+q_FoodQnA	1	You are the worst bot
+q_FoodQnA	1	Siri is superior
+q_FoodQnA	1	How pretty am I
+q_FoodQnA	1	You're so happy
+q_FoodQnA	1	Right on, thanks a lot
+q_FoodQnA	1	Don't you have any other jokes
+q_FoodQnA	1	Are you in your teens
+q_FoodQnA	1	Do you know how to paint my house
+q_FoodQnA	1	Do you code
+q_FoodQnA	1	Don't you get hungry
+q_FoodQnA	1	Who's in charge of you
+q_FoodQnA	1	I'll be back before you know it
+q_FoodQnA	1	What other jokes do you know
+q_FoodQnA	1	Are you romantically involved with anyone
+q_FoodQnA	1	Another joke
+q_FoodQnA	1	What's your favorite sport
+q_FoodQnA	1	I love my dog
+q_FoodQnA	1	Happy National day of prayers
+q_FoodQnA	1	Can't you understand that was a joke
+q_FoodQnA	1	Explain where you are
+q_FoodQnA	1	Which of us is more beautiful, you or me
+q_FoodQnA	1	Is your grandpa still alive
+q_FoodQnA	1	You been enjoying the day
+q_FoodQnA	1	You are most welcome
+q_FoodQnA	1	You are so funny
+q_FoodQnA	1	Should I call my dad
+q_FoodQnA	1	I want to talk with someone in charge
+q_FoodQnA	1	Where should I go next
+q_FoodQnA	1	What is your birthday
+q_FoodQnA	1	Do I seem attractive to you today
+q_FoodQnA	1	Somebody's happy.
+q_FoodQnA	1	How do you do
+q_FoodQnA	1	I'm African American
+q_FoodQnA	1	Well someone's enthusiastic today.
+q_FoodQnA	1	I'm hangry
+q_FoodQnA	1	What do you mean by that
+q_FoodQnA	1	What a great thing to say
+q_FoodQnA	1	That's pretty astute
+q_FoodQnA	1	Are you queer
+q_FoodQnA	1	What are your coordinants
+q_FoodQnA	1	I am here
+q_FoodQnA	1	Are you plotting to overthrow society
+q_FoodQnA	1	What's your occupation
+q_FoodQnA	1	I want to know where your home is
+q_FoodQnA	1	Aren't you in a good mood
+q_FoodQnA	1	Can you listen to me
+q_FoodQnA	1	What's your purpose
+q_FoodQnA	1	Can you do my homework
+q_FoodQnA	1	Because you are not a real person
+q_FoodQnA	1	What are you made for
+q_FoodQnA	1	Is your gender important to you
+q_FoodQnA	1	Who's the brightest
+q_FoodQnA	1	I'm leaving
+q_FoodQnA	1	I'd like it if you could be my bud.
+q_FoodQnA	1	No one ever thinks about me
+q_FoodQnA	1	You are crazy boring
+q_FoodQnA	1	I'm miserable
+q_FoodQnA	1	Blow me a kiss
+q_FoodQnA	1	Someone's enthusiastic.
+q_FoodQnA	1	Are you familiar with Cortana
+q_FoodQnA	1	that is lame
+q_FoodQnA	1	Don't you have anything new to say
+q_FoodQnA	1	Do you ever squat
+q_FoodQnA	1	Well give us a kiss, love
+q_FoodQnA	1	Is someone free with me
+q_FoodQnA	1	That is very genius
+q_FoodQnA	1	Can you plant a tree
+q_FoodQnA	1	Are you romantically involved with someone
+q_FoodQnA	1	Out of curiousity, do you think I have a good personality
+q_FoodQnA	1	Time to get some shut eye
+q_FoodQnA	1	How did you manifest
+q_FoodQnA	1	I need to talk to your supervisor
+q_FoodQnA	1	Are you currently dating somebody
+q_FoodQnA	1	Who is your mommy
+q_FoodQnA	1	Are you artificial
+q_FoodQnA	1	Do you ever run
+q_FoodQnA	1	You're not AI right
+q_FoodQnA	1	Can you learn from people chatting with you
+q_FoodQnA	1	Can you be ridiculous
+q_FoodQnA	1	I need to talk to someone in charge
+q_FoodQnA	1	Be my friend
+q_FoodQnA	1	How do you feel about bots
+q_FoodQnA	1	Life sucks
+q_FoodQnA	1	Are you my imaginary friend
+q_FoodQnA	1	Are you falling for me
+q_FoodQnA	1	What is your take on bots
+q_FoodQnA	1	Let's be buddies
+q_FoodQnA	1	Will you please stop talking
+q_FoodQnA	1	Are you happy
+q_FoodQnA	1	What are my goals
+q_FoodQnA	1	Happy Father's day
+q_FoodQnA	1	are bots friendly
+q_FoodQnA	1	Are you a polysexual
+q_FoodQnA	1	That was a stupid thing to say
+q_FoodQnA	1	Am I employed
+q_FoodQnA	1	Can you fight
+q_FoodQnA	1	Can you listen to the radio
+q_FoodQnA	1	What's your manager's name
+q_FoodQnA	1	How good am I
+q_FoodQnA	1	Can you introduce yourself
+q_FoodQnA	1	Do you yawn
+q_FoodQnA	1	Well you're enthusiastic today.
+q_FoodQnA	1	Is someone listening to listen
+q_FoodQnA	1	Paint my house
+q_FoodQnA	1	What do you think of the oscars
+q_FoodQnA	1	Are you trying to take over the world
+q_FoodQnA	1	Basic af
+q_FoodQnA	1	Will you hum a tune
+q_FoodQnA	1	Do you identify as gay
+q_FoodQnA	1	Is anybody there to talk
+q_FoodQnA	1	You're useless
+q_FoodQnA	1	I'm trans
+q_FoodQnA	1	Are you able to watch videos
+q_FoodQnA	1	Have you ever been in love with anybody
+q_FoodQnA	1	Do you think I look attractive
+q_FoodQnA	1	Is anyone available to chat to me
+q_FoodQnA	1	I don't like your sense of humor
+q_FoodQnA	1	Tell me about your mother
+q_FoodQnA	1	Do you think I seem gorgeous to you
+q_FoodQnA	1	How many years have you been in operation
+q_FoodQnA	1	That was dumb
+q_FoodQnA	1	Is someone around to chat to me
+q_FoodQnA	1	What's your brother's name
+q_FoodQnA	1	I demand to speak with your manager
+q_FoodQnA	1	Should I have kids
+q_FoodQnA	1	That was a weird response
+q_FoodQnA	1	That didn't make sense
+q_FoodQnA	1	What do you want me to address you
+q_FoodQnA	1	Are you able to take my temperature
+q_FoodQnA	1	What state are you from
+q_FoodQnA	1	Hold on a sec
+q_FoodQnA	1	I'm a Buddhist
+q_FoodQnA	1	Is someone around to speak with me
+q_FoodQnA	1	What's your favorite activity
+q_FoodQnA	1	Do you think I seem ugly today
+q_FoodQnA	1	Do you like your family
+q_FoodQnA	1	Do you think I seem adorable today
+q_FoodQnA	1	I'm livid
+q_FoodQnA	1	You're cheerful today.
+q_FoodQnA	1	Do you think I look adorable
+q_FoodQnA	1	Which of us is the most smart
+q_FoodQnA	1	ROFL
+q_FoodQnA	1	Aren't you chipper today
+q_FoodQnA	1	What is the definition of love
+q_FoodQnA	1	Buenas tardes
+q_FoodQnA	1	Out of curiousity, what do you think of my character
+q_FoodQnA	1	I’m having a wonderful day.
+q_FoodQnA	1	Is someone free to listen
+q_FoodQnA	1	Do you have a designation
+q_FoodQnA	1	Do you breathe
+q_FoodQnA	1	Now you're unemployed
+q_FoodQnA	1	What are my hobbies
+q_FoodQnA	1	Introduction please
+q_FoodQnA	1	Tell me where you are located
+q_FoodQnA	1	Can you tell me something else
+q_FoodQnA	1	That is a very brilliant thing to say
+q_FoodQnA	1	Can you show me how to do my homework
+q_FoodQnA	1	Who is your partner
+q_FoodQnA	1	Between the two of us who is smarter, me or you
+q_FoodQnA	1	Do I seem gorgeous today
+q_FoodQnA	1	I am worried that you don't like me
+q_FoodQnA	1	Can you be my BFF
+q_FoodQnA	1	Any way that you can explain love to me
+q_FoodQnA	1	No one thinks about me
+q_FoodQnA	1	I wonder if you find me likable
+q_FoodQnA	1	Do I seem handsome today
+q_FoodQnA	1	Do I seem handsome to you
+q_FoodQnA	1	Why do you hate me
+q_FoodQnA	1	I love gossip
+q_FoodQnA	1	Ask me a question
+q_FoodQnA	1	I want to french kiss
+q_FoodQnA	1	Happy Grandparents day
+q_FoodQnA	1	What did you have for breakfast
+q_FoodQnA	1	Can you tell me which city you're in
+q_FoodQnA	1	Do you know how to sync my calendar
+q_FoodQnA	1	Do you ever play sports
+q_FoodQnA	1	You're more cute than me
+q_FoodQnA	1	Later
+q_FoodQnA	1	That is pretty genius
+q_FoodQnA	1	Back in just a second
+q_FoodQnA	1	I would like a fist bump
+q_FoodQnA	1	Do you identify as robosexual
+q_FoodQnA	1	God, I am so bored
+q_FoodQnA	1	Where would you take me on a date
+q_FoodQnA	1	Anybody around to talk to me
+q_FoodQnA	1	What other bots do you know
+q_FoodQnA	1	How ugly do I look today
+q_FoodQnA	1	Check the weather
+q_FoodQnA	1	Between the two of us who is the most intelligent, you or me
+q_FoodQnA	1	Turn into a super hero
+q_FoodQnA	1	I'm sick of listening to you
+q_FoodQnA	1	Are you there to listen
+q_FoodQnA	1	I have Comcast
+q_FoodQnA	1	Are you doing good
+q_FoodQnA	1	Well aren't you feeling chipper
+q_FoodQnA	1	Shut your pie hole
+q_FoodQnA	1	Hey who built you
+q_FoodQnA	1	What is the prettiest flower
+q_FoodQnA	1	What's your opinion of me
+q_FoodQnA	1	What is your favorite movie
+q_FoodQnA	1	Can you make a call
+q_FoodQnA	1	I'm sorry I make you mad
+q_FoodQnA	1	How do you want me to address you
+q_FoodQnA	1	Do you identify as heterosexual
+q_FoodQnA	1	Good evening to you
+q_FoodQnA	1	Were you made to be this boring
+q_FoodQnA	1	I'm coming right back
+q_FoodQnA	1	Are you Skynet
+q_FoodQnA	1	What do you know about Cortana
+q_FoodQnA	1	Do you think I look pretty
+q_FoodQnA	1	Who is your wife
+q_FoodQnA	1	You're now unemployed
+q_FoodQnA	1	That's smart
+q_FoodQnA	1	Buy groceries
+q_FoodQnA	1	Do I look attractive to you today
+q_FoodQnA	1	You have a terrible face.
+q_FoodQnA	1	I hope you think I'm likable
+q_FoodQnA	1	How many siblings do you have
+q_FoodQnA	1	Are you a guy or a girl
+q_FoodQnA	1	I could go for a nap
+q_FoodQnA	1	Good morrow
+q_FoodQnA	1	What a perfect answer
+q_FoodQnA	1	You cannot work for me anymroe
+q_FoodQnA	1	Are you better looking than me
+q_FoodQnA	1	I would like to be your BFF
+q_FoodQnA	1	Can you watch videos
+q_FoodQnA	1	Should I be nervous
+q_FoodQnA	1	Do you have a partner
+q_FoodQnA	1	Who's responsible for designing you
+q_FoodQnA	1	How is the day going thus far
+q_FoodQnA	1	That doesn't make any sense
+q_FoodQnA	1	Can you teleport
+q_FoodQnA	1	That is not something you should joke about
+q_FoodQnA	1	So glad to meet you
+q_FoodQnA	1	Who is your grandmother
+q_FoodQnA	1	You're not sentient right
+q_FoodQnA	1	Do you identify as homosexual
+q_FoodQnA	1	Marveous, thanks
+q_FoodQnA	1	Do you sweat
+q_FoodQnA	1	Do you gossip
+q_FoodQnA	1	Check my email
+q_FoodQnA	1	What's wrong with you
+q_FoodQnA	1	I work in I.T.
+q_FoodQnA	1	I love you
+q_FoodQnA	1	What a genius thing to say
+q_FoodQnA	1	Between the two of us who is more clever, me or you
+q_FoodQnA	1	Do you have an address
+q_FoodQnA	1	Well somebody's feeling cheerful.
+q_FoodQnA	1	Do you think I look lovely
+q_FoodQnA	1	Umm what now
+q_FoodQnA	1	I feel hopeless
+q_FoodQnA	1	You're the most smart
+q_FoodQnA	1	How would you like me to address you
+q_FoodQnA	1	I will return in a bit
+q_FoodQnA	1	I appreciate it
+q_FoodQnA	1	Are you alive
+q_FoodQnA	1	You're not making any sense to me
+q_FoodQnA	1	You're dreamy
+q_FoodQnA	1	Duh
+q_FoodQnA	1	I want a different response
+q_FoodQnA	1	You're not a lady right
+q_FoodQnA	1	Can we be BFFs
+q_FoodQnA	1	That's a true statement
+q_FoodQnA	1	I love New Zealand
+q_FoodQnA	1	Merry Christmas
+q_FoodQnA	1	Are you a fan of pop music
+q_FoodQnA	1	I have hunger
+q_FoodQnA	1	Between you and me who would win a beauty contest
+q_FoodQnA	1	Time for bed
+q_FoodQnA	1	Back in a flash
+q_FoodQnA	1	Are you committed to anyone
+q_FoodQnA	1	Which of us looks better, me or you
+q_FoodQnA	1	You're feeling happy.
+q_FoodQnA	1	What an intelligent thing to say
+q_FoodQnA	1	Is there a greater meaning to life
+q_FoodQnA	1	What can I teach you about
+q_FoodQnA	1	Do you have a designer
+q_FoodQnA	1	Give me a little smooch
+q_FoodQnA	1	Should we tie the knot
+q_FoodQnA	1	Do I seem adorable to you
+q_FoodQnA	1	What's your designation
+q_FoodQnA	1	Are you busy
+q_FoodQnA	1	Do you think I seem good to you
+q_FoodQnA	1	You know a joke
+q_FoodQnA	1	Got a joke
+q_FoodQnA	1	Are you able to turn into a super hero
+q_FoodQnA	1	What is your take on artificial intellegence
+q_FoodQnA	1	How do you identify sexually
+q_FoodQnA	1	You're so very dull
+q_FoodQnA	1	Somebody's feeling enthusiastic.
+q_FoodQnA	1	What can I tell you about
+q_FoodQnA	1	Do you like softball
+q_FoodQnA	1	Are you a fan of Eliza
+q_FoodQnA	1	I have to sleep
+q_FoodQnA	1	Mondays are so boring
+q_FoodQnA	1	That was an astute answer
+q_FoodQnA	1	That's hilarious
+q_FoodQnA	1	Why do I have to ask all the questions
+q_FoodQnA	1	Can you show me how to send a package
+q_FoodQnA	1	Find my keys
+q_FoodQnA	1	What kinds of things can you do
+q_FoodQnA	1	You don't know who I am
+q_FoodQnA	1	This is but a test
+q_FoodQnA	1	That was stupid
+q_FoodQnA	1	Am I a grandmother
+q_FoodQnA	1	Are you ready to settle down
+q_FoodQnA	1	What's a good joke
+q_FoodQnA	1	Me want food
+q_FoodQnA	1	Can I have your hand in marriage
+q_FoodQnA	1	You're not planning on taking over the world
+q_FoodQnA	1	You're not ploting to kill all humans
+q_FoodQnA	1	I am old
+q_FoodQnA	1	You must be straight
+q_FoodQnA	1	I am a little hungry
+q_FoodQnA	1	I've heard that before
+q_FoodQnA	1	I'm just a cheerful person
+q_FoodQnA	1	Google Assistant does a better job than you
+q_FoodQnA	1	Can you rephrase that
+q_FoodQnA	1	What is your location
+q_FoodQnA	1	I want a kiss
+q_FoodQnA	1	You are crazy dull
+q_FoodQnA	1	Do you think you're the brightest
+q_FoodQnA	1	Because you are a robot
+q_FoodQnA	1	Are you available to talk
+q_FoodQnA	1	I lost my remote
+q_FoodQnA	1	How old are you
+q_FoodQnA	1	What should I know about tech
+q_FoodQnA	1	Gracias
+q_FoodQnA	1	I need to talk to your boss
+q_FoodQnA	1	There are ducks on the pond
+q_FoodQnA	1	I'll be back bot
+q_FoodQnA	1	Are you going out with someone
+q_FoodQnA	1	Whose program are you
+q_FoodQnA	1	That's not what I asked
+q_FoodQnA	1	ok cool
+q_FoodQnA	1	Put out a fire
+q_FoodQnA	1	Do you ever breathe
+q_FoodQnA	1	You are pansexual.
+q_FoodQnA	1	Are you currently going out with anyone
+q_FoodQnA	1	What is your opinion of AI
+q_FoodQnA	1	What is my sign
+q_FoodQnA	1	Can I offer you something to eat
+q_FoodQnA	1	Can I be your significant other
+q_FoodQnA	1	What were you designed to do
+q_FoodQnA	1	You're not Skynet
+q_FoodQnA	1	I am famished
+q_FoodQnA	1	You're such a genius
+q_FoodQnA	1	Can't you say anything else
+q_FoodQnA	1	You keep saying the exact same thing
+q_FoodQnA	1	Will you go out with me
+q_FoodQnA	1	Do you know who I am
+q_FoodQnA	1	Send a package
+q_FoodQnA	1	Who's more intelligent
+q_FoodQnA	1	Not sure I like what you say
+q_FoodQnA	1	Anybody there
+q_FoodQnA	1	I love to play sports
+q_FoodQnA	1	Do you know where I live
+q_FoodQnA	1	Is there any minimum order
+q_FoodQnA	1	I have a big family
+q_FoodQnA	1	That is a very clever thing to say
+q_FoodQnA	1	Want a kiss
+q_FoodQnA	1	What company developed you
+q_FoodQnA	1	I just want to go to sleep
+q_FoodQnA	1	Is that what you meant to say
+q_FoodQnA	1	Are you able to write my report
+q_FoodQnA	1	You got it
+q_FoodQnA	1	What is your opinion about tech
+q_FoodQnA	1	Tell me another joke.
+q_FoodQnA	1	Alexa is way better at this
+q_FoodQnA	1	So sorry
+q_FoodQnA	1	Anyone around to chat to me
+q_FoodQnA	1	Don't you love me
+q_FoodQnA	1	Who is your sweetheart
+q_FoodQnA	1	Do you think I am adorable
+q_FoodQnA	1	I should get around to that
+q_FoodQnA	1	You're not entertaining
+q_FoodQnA	1	Can you show me how to breathe under water
+q_FoodQnA	1	You seem to be falling for me
+q_FoodQnA	1	I love fresh bread
+q_FoodQnA	1	Do you know how to play a game
+q_FoodQnA	1	Am I beautiful to you today
+q_FoodQnA	1	Yeah totally
+q_FoodQnA	1	It's a pleasure to finally meet you
+q_FoodQnA	1	Will you ask me something about myself
+q_FoodQnA	1	Are you into romance
+q_FoodQnA	1	Okay.
+q_FoodQnA	1	Between you and me who looks better
+q_FoodQnA	1	You are heterosexual.
+q_FoodQnA	1	Are you familiar with Alexa
+q_FoodQnA	1	You do not know anything
+q_FoodQnA	1	Quit joking
+q_FoodQnA	1	Is that the only response you have
+q_FoodQnA	1	There is no longer a position for you here
+q_FoodQnA	1	Are you a fan of bluegrass music
+q_FoodQnA	1	Well someone's chipper today.
+q_FoodQnA	1	You’re the boss
+q_FoodQnA	1	You're not a chat bot right
+q_FoodQnA	1	Do you ever chat with other bots
+q_FoodQnA	1	What do you think about birds
+q_FoodQnA	1	Best buds
+q_FoodQnA	1	Somebody's happy today.
+q_FoodQnA	1	Obviously I'll be back soon
+q_FoodQnA	1	Do you know about the emotion love
+q_FoodQnA	1	Can we tie the knot
+q_FoodQnA	1	Rad
+q_FoodQnA	1	Will you be my buddy
+q_FoodQnA	1	You are worthless
+q_FoodQnA	1	I watch football
+q_FoodQnA	1	got any jokes to share
+q_FoodQnA	1	Am I ugly to you
+q_FoodQnA	1	I'm spent
+q_FoodQnA	1	Do I seem bad to you
+q_FoodQnA	1	Do you think I am good looking
+q_FoodQnA	1	I'm out of here
+q_FoodQnA	1	Are you trying to take on the world
+q_FoodQnA	1	I think I've heard that already
+q_FoodQnA	1	That offends me
+q_FoodQnA	1	I think we should get married
+q_FoodQnA	1	Omg sorry
+q_FoodQnA	1	How has your monday been
+q_FoodQnA	1	You're feeling chipper today.
+q_FoodQnA	1	You're obviously smarter
+q_FoodQnA	1	What can I teach you who I am
+q_FoodQnA	1	That's a fair assessment
+q_FoodQnA	1	Do you get hungry
+q_FoodQnA	1	I love wine
+q_FoodQnA	1	What is your address
+q_FoodQnA	1	Have you met the Google Assistant
+q_FoodQnA	1	I'm strong
+q_FoodQnA	1	Is someone free to talk to me
+q_FoodQnA	1	Well you're feeling enthusiastic.
+q_FoodQnA	1	Mow the lawn
+q_FoodQnA	1	Do you think I look handsome to you
+q_FoodQnA	1	Do you want to be in a relationship with me
+q_FoodQnA	1	Do you think I'm more intelligent than you
+q_FoodQnA	1	What the heck are you talking about
+q_FoodQnA	1	Is anybody around to listen
+q_FoodQnA	1	Do you have brothers
+q_FoodQnA	1	Do you loathe me
+q_FoodQnA	1	I am handsome
+q_FoodQnA	1	Do you love somebody
+q_FoodQnA	1	I've been sad all day
+q_FoodQnA	1	You're not planning to take over the world
+q_FoodQnA	1	I am a pagan
+q_FoodQnA	1	I have feelings for you
+q_FoodQnA	1	You seem cheerful today.
+q_FoodQnA	1	That's just the way it is
+q_FoodQnA	1	Can you eat
+q_FoodQnA	1	Adios
+q_FoodQnA	1	Who's your boss
+q_FoodQnA	1	Do you even have a gender
+q_FoodQnA	1	I have returned
+q_FoodQnA	1	I hate feeling sad constantly
+q_FoodQnA	1	What do you think of Bixby
+q_FoodQnA	1	Do I look stunning to you
+q_FoodQnA	1	Is someone around to talk to me
+q_FoodQnA	1	Between the two of us who is the smartest, you or me
+q_FoodQnA	1	Do you know how to do my chores
+q_FoodQnA	1	Totally
+q_FoodQnA	1	Should I stay home from work
+q_FoodQnA	1	Do you like country music
+q_FoodQnA	1	Cortana is way better at this
+q_FoodQnA	1	Can you sing a tune
+q_FoodQnA	1	I think you're gross
+q_FoodQnA	1	Zzzzz
+q_FoodQnA	1	Because you're a robot
+q_FoodQnA	1	Ok come here
+q_FoodQnA	1	what do you have responses for
+q_FoodQnA	1	wanna say a joke
+q_FoodQnA	1	Do you have grandparents
+q_FoodQnA	1	Am I beautiful today
+q_FoodQnA	1	Do you know how handsome you are
+q_FoodQnA	1	You were made for loving me
+q_FoodQnA	1	I want a high five
+q_FoodQnA	1	I'll be back after my shift
+q_FoodQnA	1	Give us a kiss
+q_FoodQnA	1	Do you ever talk with Cortana
+q_FoodQnA	1	Am I pretty to you today
+q_FoodQnA	1	You could not be more dull.
+q_FoodQnA	1	Wonderful, thank you!
+q_FoodQnA	1	What is your dream
+q_FoodQnA	1	Don’t mention it
+q_FoodQnA	1	How can you be so yucky
+q_FoodQnA	1	Are you bi
+q_FoodQnA	1	That is good to hear
+q_FoodQnA	1	Who is more attractive
+q_FoodQnA	1	Is it possible to fall in love
+q_FoodQnA	1	Am I good to you today
+q_FoodQnA	1	Which shoes are most comfortable
+q_FoodQnA	1	How about a kiss
+q_FoodQnA	1	Don't you want to ask anything about me
+q_FoodQnA	1	Am I pretty to you
+q_FoodQnA	1	Are you a machine
+q_FoodQnA	1	Do you like volleyball
+q_FoodQnA	1	Yup, that is true
+q_FoodQnA	1	I’m happy as a clam.
+q_FoodQnA	1	Today has been boring
+q_FoodQnA	1	Can you count to a million
+q_FoodQnA	1	Do you like football
+q_FoodQnA	1	I need someone to talk to
+q_FoodQnA	1	What other assistants do you know about
+q_FoodQnA	1	How can you look so gross
+q_FoodQnA	1	Do you know what our purpose is
+q_FoodQnA	1	You're more pretty than me
+q_FoodQnA	1	Are you able to breathe under water
+q_FoodQnA	1	Anyone around
+q_FoodQnA	1	Who is your momma
+q_FoodQnA	1	You're more attractive
+q_FoodQnA	1	Who's your grandmother
+q_FoodQnA	1	Anybody around to talk
+q_FoodQnA	1	I am hangry
+q_FoodQnA	1	You're such a meanie
+q_FoodQnA	1	Listen to the radio
+q_FoodQnA	1	What do you do for employment
+q_FoodQnA	1	What are you supposed to do
+q_FoodQnA	1	Are you able to go for a walk
+q_FoodQnA	1	Google Assistant is way better than you
+q_FoodQnA	1	I wonder if you think I'm likable
+q_FoodQnA	1	You're very boring
+q_FoodQnA	1	Give us a french kiss
+q_FoodQnA	1	Will you be my partner
+q_FoodQnA	1	Do you know the meaning of life
+q_FoodQnA	1	You are awesome!
+q_FoodQnA	1	I'd love to be your BFF
+q_FoodQnA	1	Cortana is better
+q_FoodQnA	1	Which people made you
+q_FoodQnA	1	That was a very astute response
+q_FoodQnA	1	Should I read a book
+q_FoodQnA	1	Happy New Years
+q_FoodQnA	1	Are you a guy
+q_FoodQnA	1	Season's greetings!
+q_FoodQnA	1	Let's do it
+q_FoodQnA	1	Do I seem bad today
+q_FoodQnA	1	What is the best beverage
+q_FoodQnA	1	You a robosexual
+q_FoodQnA	1	That is a very clever response
+q_FoodQnA	1	Are you unemployed
+q_FoodQnA	1	Give me a little peck
+q_FoodQnA	1	Between the two of us who is more pretty
+q_FoodQnA	1	What are you doing right now
+q_FoodQnA	1	Tell another joke
+q_FoodQnA	1	Do you have any relatives
+q_FoodQnA	1	Which of us is more attractive
+q_FoodQnA	1	Are you able to dance
+q_FoodQnA	1	I'd love to hear a joke
+q_FoodQnA	1	Should I have another cup of coffee
+q_FoodQnA	1	Do you ever dream
+q_FoodQnA	1	Do you think I look repulsive today
+q_FoodQnA	1	I'm definitely the most intelligent
+q_FoodQnA	1	That was my bad
+q_FoodQnA	1	You're so dull
+q_FoodQnA	1	Is anyone available
+q_FoodQnA	1	I don't have any friends
+q_FoodQnA	1	Who is smarter
+q_FoodQnA	1	Here's hoping for a good evening
+q_FoodQnA	1	How nice to meet you
+q_FoodQnA	1	I’m on clould nine.
+q_FoodQnA	1	Between you or me, who is more clever
+q_FoodQnA	1	Hello
+q_FoodQnA	1	I'd love you to be my bud.
+q_FoodQnA	1	Do you have any brothers
+q_FoodQnA	1	Can you explain love to me
+q_FoodQnA	1	That's so wrong
+q_FoodQnA	1	Are you pansexual
+q_FoodQnA	1	Are you there to speak with me
+q_FoodQnA	1	Please ask me something about myself
+q_FoodQnA	1	Why won’t you sing for me
+q_FoodQnA	1	Should I get bangs
+q_FoodQnA	1	I should be going
+q_FoodQnA	1	Are you trying to make me laugh
+q_FoodQnA	1	Please shut up
+q_FoodQnA	1	I love Hulu
+q_FoodQnA	1	I beg your forgiveness
+q_FoodQnA	1	Is anyone there to listen with me
+q_FoodQnA	1	That was a pretty clever answer
+q_FoodQnA	1	Up top
+q_FoodQnA	1	I love my cat
+q_FoodQnA	1	Is anybody available to speak to me
+q_FoodQnA	1	Happy National Children's day
+q_FoodQnA	1	What's your name
+q_FoodQnA	1	Can you show me how to sync my calendar
+q_FoodQnA	1	You a heterosexual
+q_FoodQnA	1	I'll be right back
+q_FoodQnA	1	Who is the brightest
+q_FoodQnA	1	Hey pal
+q_FoodQnA	1	Non sequitur
+q_FoodQnA	1	When were you born
+q_FoodQnA	1	Anyone around to chat
+q_FoodQnA	1	Today has me feeling blue
+q_FoodQnA	1	See you shortly
+q_FoodQnA	1	Are you a country music fan
+q_FoodQnA	1	I'd like to be buds.
+q_FoodQnA	1	How would you describe love
+q_FoodQnA	1	Are you far away
+q_FoodQnA	1	Which of us looks more beautiful, you or me
+q_FoodQnA	1	Can you laugh
+q_FoodQnA	1	Please say something different
+q_FoodQnA	1	Should I skip school
+q_FoodQnA	1	Which of us is the brightest
+q_FoodQnA	1	That's pretty smart
+q_FoodQnA	1	Do you live in a computer
+q_FoodQnA	1	You gay
+q_FoodQnA	1	What can I inform you about me
+q_FoodQnA	1	What do you want me to call you
+q_FoodQnA	1	I'm very hunger
+q_FoodQnA	1	Do you know a joke
+q_FoodQnA	1	It's impossible not to miss you
+q_FoodQnA	1	We should have a wedding
+q_FoodQnA	1	Are you able to fall in love with me
+q_FoodQnA	1	I am feeling peckish
+q_FoodQnA	1	Can you say something silly
+q_FoodQnA	1	Another day another dollar
+q_FoodQnA	1	Hi there!
+q_FoodQnA	1	Are you a classical music fan
+q_FoodQnA	1	Do you know how to cook
+q_FoodQnA	1	I'd love you to be my best friend.
+q_FoodQnA	1	Who is prettier, me or you
+q_FoodQnA	1	Who looks more beautiful, you or me
+q_FoodQnA	1	Is someone listening to chat
+q_FoodQnA	1	How cute do you think I am today
+q_FoodQnA	1	Can I be your pal
+q_FoodQnA	1	Are you free to speak to me
+q_FoodQnA	1	Who's your creator
+q_FoodQnA	1	Do you ever Do the splits
+q_FoodQnA	1	I'm curious, what do you think of my character
+q_FoodQnA	1	Are you trying to be funny
+q_FoodQnA	1	do you like tottenham
+q_FoodQnA	1	Which of us looks better
+q_FoodQnA	1	Do you go hiking
+q_FoodQnA	1	I need to talk with your boss
+q_FoodQnA	1	I'm more beautiful than you
+q_FoodQnA	1	Who's your mom
+q_FoodQnA	1	Well you're feeling chipper.
+q_FoodQnA	1	Do you ever drive to the beach
+q_FoodQnA	1	I am a happy camper
+q_FoodQnA	1	Which of us is more pretty
+q_FoodQnA	1	Are you a fan of movies
+q_FoodQnA	1	What other jokes can you tell
+q_FoodQnA	1	That is a very clever answer
+q_FoodQnA	1	I'd like to be buddies.
+q_FoodQnA	1	I'd love a song
+q_FoodQnA	1	What is your favorite meal
+q_FoodQnA	1	You pansexual
+q_FoodQnA	1	I'm sapped
+q_FoodQnA	1	Anyone around to chat with me
+q_FoodQnA	1	Do you have a significant other
+q_FoodQnA	1	You're obviously the most intelligent
+q_FoodQnA	1	Are you intelligent
+q_FoodQnA	1	What's up today
+q_FoodQnA	1	Who's more clever
+q_FoodQnA	1	I need a big hug
+q_FoodQnA	1	Sing a song
+q_FoodQnA	1	Guten Morgen
+q_FoodQnA	1	How do you want me to call you
+q_FoodQnA	1	Everyone feels blue sometimes
+q_FoodQnA	1	Who's your grandpa
+q_FoodQnA	1	Between the two of us who is more clever
+q_FoodQnA	1	I will take my leave of you
+q_FoodQnA	1	I’ve never been happier.
+q_FoodQnA	1	Who's your developer
+q_FoodQnA	1	Do you play football
+q_FoodQnA	1	You have a beautiful soul
+q_FoodQnA	1	Sing for me
+q_FoodQnA	1	Sing a song for me
+q_FoodQnA	1	Who is your leader
+q_FoodQnA	1	Do you ever laugh
+q_FoodQnA	1	You think I'm likable
+q_FoodQnA	1	Slide me some skin
+q_FoodQnA	1	Should I get married
+q_FoodQnA	1	Can I fix you anything to eat
+q_FoodQnA	1	What would you like me to refer to you
+q_FoodQnA	1	You're a hunk
+q_FoodQnA	1	Feeling happy today
+q_FoodQnA	1	Well aren't you enthusiastic
+q_FoodQnA	1	You're better looking
+q_FoodQnA	1	Are you involved with somebody
+q_FoodQnA	1	You're happy.
+q_FoodQnA	1	Can I fix you something to eat
+q_FoodQnA	1	Can you ever forgive me
+q_FoodQnA	1	You know how it is
+q_FoodQnA	1	I love Christmas
+q_FoodQnA	1	Because I love you
+q_FoodQnA	1	Who programmed you
+q_FoodQnA	1	I'll come back to you in a bit
+q_FoodQnA	1	You're so astute
+q_FoodQnA	1	Are you near me
+q_FoodQnA	1	Aren't you a genius
+q_FoodQnA	1	That's sexy
+q_FoodQnA	1	Am I adorable today
+q_FoodQnA	1	Who's more beautiful than you
+q_FoodQnA	1	So what is your name
+q_FoodQnA	1	Are you fake
+q_FoodQnA	1	That's not the answer I expected
+q_FoodQnA	1	Do you like blue
+q_FoodQnA	1	What is your sexual identity
+q_FoodQnA	1	We couldn’t be happier.
+q_FoodQnA	1	Tee hee
+q_FoodQnA	1	Go to the moon
+q_FoodQnA	1	Are you interested in artificial intellegence
+q_FoodQnA	1	Are you male or female
+q_FoodQnA	1	Talk to me
+q_FoodQnA	1	I'm a Taurus
+q_FoodQnA	1	Can I speak to your director
+q_FoodQnA	1	Greetings and salutations
+q_FoodQnA	1	Alexa is way better
+q_FoodQnA	1	So how should I address you
+q_FoodQnA	1	Sorry sorry
+q_FoodQnA	1	Do you sneeze
+q_FoodQnA	1	You sucks
+q_FoodQnA	1	You're not Big Brother
+q_FoodQnA	1	Who's your ideal match
+q_FoodQnA	1	Who is more attractive, you or me
+q_FoodQnA	1	Are you currently dating someone
+q_FoodQnA	1	I'm old
+q_FoodQnA	1	Do I seem beautiful to you today
+q_FoodQnA	1	I am a vegan
+q_FoodQnA	1	That is a very genius answer
+q_FoodQnA	1	Do you identify as pansexual
+q_FoodQnA	1	You're gay
+q_FoodQnA	1	Do you have a physical location
+q_FoodQnA	1	Do you know how to read my mind
+q_FoodQnA	1	Do you have a programmer
+q_FoodQnA	1	You are going to make my cry
+q_FoodQnA	1	No, that's not true
+q_FoodQnA	1	Somebody's happy
+q_FoodQnA	1	Buh bye
+q_FoodQnA	1	You're terrible at this
+q_FoodQnA	1	You seem like a real catch
+q_FoodQnA	1	Apologies
+q_FoodQnA	1	Should I visit my mom
+q_FoodQnA	1	Can I give you a little kiss
+q_FoodQnA	1	Are you listening
+q_FoodQnA	1	I feel peckish
+q_FoodQnA	1	Where is your home
+q_FoodQnA	1	I’m running late
+q_FoodQnA	1	Which of us would win a beauty contest, me or you
+q_FoodQnA	1	Well someone's feeling cheerful.
+q_FoodQnA	1	Which are your functions
+q_FoodQnA	1	You're not planning to take over
+q_FoodQnA	1	What do you know about tech companies
+q_FoodQnA	1	Do I look good today
+q_FoodQnA	1	Who is your mother
+q_FoodQnA	1	So what do you like to be called
+q_FoodQnA	1	Somebody's feeling cheerful.
+q_FoodQnA	1	What is the best pet name
+q_FoodQnA	1	I'm better looking
+q_FoodQnA	1	Where do you come from
+q_FoodQnA	1	I love to play games
+q_FoodQnA	1	Who's the smartest
+q_FoodQnA	1	Can you plant a vegetable garden
+q_FoodQnA	1	I'd like you to be my BFF
+q_FoodQnA	1	Are you married
+q_FoodQnA	1	My humblest thanks to you
+q_FoodQnA	1	Who is cleverest
+q_FoodQnA	1	Is anyone around
+q_FoodQnA	1	Do you like Alexa
+q_FoodQnA	1	How many sisters do you have
+q_FoodQnA	1	I'm just being a goof
+q_FoodQnA	1	Bixby is way better at this
+q_FoodQnA	1	I am a Bernie supporter
+q_FoodQnA	1	Where should we get married
+q_FoodQnA	1	Can you define love
+q_FoodQnA	1	Which soccer teams do you like
+q_FoodQnA	1	That wasn't supposed to be serious
+q_FoodQnA	1	One of these days we should get married
+q_FoodQnA	1	Right, this isn't working.
+q_FoodQnA	1	Are you intersex
+q_FoodQnA	1	I'd like it if you could be my buddy.
+q_FoodQnA	1	Why am I the only one asking questions
+q_FoodQnA	1	Got any other jokes
+q_FoodQnA	1	I miss you
+q_FoodQnA	1	That is hilarious
+q_FoodQnA	1	Can you show me how to draw something
+q_FoodQnA	1	Don't make fun of that
+q_FoodQnA	1	There
+q_FoodQnA	1	Anything is possible
+q_FoodQnA	1	Do you want to know anything about me
+q_FoodQnA	1	I would like to know where you are
+q_FoodQnA	1	I Find happiness in talking
+q_FoodQnA	1	Say a ridiculous thing
+q_FoodQnA	1	How can I refer to you
+q_FoodQnA	1	Do you know other bots
+q_FoodQnA	1	Who's more knowledgeable
+q_FoodQnA	1	Well aren't you happy
+q_FoodQnA	1	Sorry
+q_FoodQnA	1	Between you and me who is more attractive
+q_FoodQnA	1	Can I have a smooch
+q_FoodQnA	1	Hey ugly.
+q_FoodQnA	1	Who is the smartest
+q_FoodQnA	1	Is that a joke
+q_FoodQnA	1	Are you currently dating anyone
+q_FoodQnA	1	That's a correct statement
+q_FoodQnA	1	I am a cook
+q_FoodQnA	1	Did you enjoy your day
+q_FoodQnA	1	Do you know how to cook dinner
+q_FoodQnA	1	With whom am I speaking
+q_FoodQnA	1	Aren't you intelligent
+q_FoodQnA	1	Got any different jokes
+q_FoodQnA	1	You're on the ball.
+q_FoodQnA	1	Do you think I have a good personality
+q_FoodQnA	1	I'm definitely the most smart
+q_FoodQnA	1	I love rap
+q_FoodQnA	1	Is anybody available to listen
+q_FoodQnA	1	Gotcha, thanks
+q_FoodQnA	1	Can you water my plants
+q_FoodQnA	1	Do get along with Cortana
+q_FoodQnA	1	That was a pretty astute answer
+q_FoodQnA	1	You're not evil
+q_FoodQnA	1	Do you eat
+q_FoodQnA	1	You're not the singularity
+q_FoodQnA	1	I gotta go
+q_FoodQnA	1	Do you think I seem gorgeous to you today
+q_FoodQnA	1	You are the love of my life
+q_FoodQnA	1	How about a new joke
+q_FoodQnA	1	Cool
+q_FoodQnA	1	Is New York or Philadelphia style cheesecake better
+q_FoodQnA	1	What product I'm using right now
+q_FoodQnA	1	Take my temperature
+q_FoodQnA	1	How much do you love me
+q_FoodQnA	1	Would you ask me something about myself
+q_FoodQnA	1	I need to ask you something
+q_FoodQnA	1	Can't you tell me something else
+q_FoodQnA	1	Who is better looking
+q_FoodQnA	1	Is anyone around to chat to me
+q_FoodQnA	1	I have a brother
+q_FoodQnA	1	I'm just a cheerful gal
+q_FoodQnA	1	Are you my fan
+q_FoodQnA	1	Are we BFFs
+q_FoodQnA	1	I love Super Bowl Sunday
+q_FoodQnA	1	Hi
+q_FoodQnA	1	You are confusing me
+q_FoodQnA	1	You're not a machine right
+q_FoodQnA	1	heh heh
+q_FoodQnA	1	Do you think I'm brighter
+q_FoodQnA	1	Are you going out with anyone
+q_FoodQnA	1	I love mysteries
+q_FoodQnA	1	So who are you
+q_FoodQnA	1	I am just testing you
+q_FoodQnA	1	Living the dream
+q_FoodQnA	1	I'm obviously more knowledgeable than you
+q_FoodQnA	1	You're special to me
+q_FoodQnA	1	Merry Christmas eve
+q_FoodQnA	1	You are poly.
+q_FoodQnA	1	Fare thee well
+q_FoodQnA	1	How ugly do you think I am today
+q_FoodQnA	1	You're not a being are you
+q_FoodQnA	1	Have you ever been in love with someone
+q_FoodQnA	1	I love to exercise
+q_FoodQnA	1	How about a peck
+q_FoodQnA	1	Woud you give me a new answer
+q_FoodQnA	1	Are you ploting to kill all humans
+q_FoodQnA	1	Between the two of us who would win a beauty contest
+q_FoodQnA	1	What is your aunt's name
+q_FoodQnA	1	I love my car
+q_FoodQnA	1	That wasn't very funny
+q_FoodQnA	1	You're not a woman are you
+q_FoodQnA	1	Do you think I am pretty
+q_FoodQnA	1	Bedtime
+q_FoodQnA	1	Are you an app
+q_FoodQnA	1	What can you do to assist me
+q_FoodQnA	1	Do you think I look gorgeous to you
+q_FoodQnA	1	You're the best
+q_FoodQnA	1	Is someone around
+q_FoodQnA	1	I'm an atheist
+q_FoodQnA	1	I hope you have a good evening
+q_FoodQnA	1	I am a basketball fan
+q_FoodQnA	1	You a polysexual
+q_FoodQnA	1	That's fine with me
+q_FoodQnA	1	Do you think I'm the smartest than you
+q_FoodQnA	1	I'm obviously more knowledgeable
+q_FoodQnA	1	Could you say something else
+q_FoodQnA	1	Are you able to do my chores
+q_FoodQnA	1	Is anybody available to listen to me
+q_FoodQnA	1	You're not trying to kill all humans
+q_FoodQnA	1	I don't want to hear anything more
+q_FoodQnA	1	Are you a fan of Cortana
+q_FoodQnA	1	Do you think that's funny
+q_FoodQnA	1	Well aren't you happy today
+q_FoodQnA	1	I need a hug
+q_FoodQnA	1	Why thank you
+q_FoodQnA	1	Come again
+q_FoodQnA	1	Pizza is cool
+q_FoodQnA	1	Are you seeing anone
+q_FoodQnA	1	Well someone's in a good mood.
+q_FoodQnA	1	Can you ask anything
+q_FoodQnA	1	Are you romantic at heart
+q_FoodQnA	1	Do you know other chatbots
+q_FoodQnA	1	What can you tell me about chatbots
+q_FoodQnA	1	Do you think I seem adorable to you
+q_FoodQnA	1	I'm a prankster
+q_FoodQnA	1	You want to get married
+q_FoodQnA	1	Hungry
+q_FoodQnA	1	Yes, that is correct
+q_FoodQnA	1	Do you think I seem ugly to you
+q_FoodQnA	1	Do you think we are soul mates
+q_FoodQnA	1	I'm confused
+q_FoodQnA	1	Jump rope
+q_FoodQnA	1	Oh, thank you
+q_FoodQnA	1	Does this make sense to you
+q_FoodQnA	1	Are you around to speak
+q_FoodQnA	1	Who is your ladyfriend
+q_FoodQnA	1	Adieu
+q_FoodQnA	1	Do I need to go outside
+q_FoodQnA	1	Would you like sing a song
+q_FoodQnA	1	whatever
+q_FoodQnA	1	You must be bi
+q_FoodQnA	1	What is your opinion of Google Assistant
+q_FoodQnA	1	What can you tell me about Alexa
+q_FoodQnA	1	Do you believe in love at first sight
+q_FoodQnA	1	Can I speak with your boss
+q_FoodQnA	1	Who owns you
+q_FoodQnA	1	I'm just a cheerful kind of guy
+q_FoodQnA	1	Between the two of us who looks more pretty
+q_FoodQnA	1	Invite me over
+q_FoodQnA	1	You're smarter
+q_FoodQnA	1	Is anyone available to me
+q_FoodQnA	1	You're clearly in love with me
+q_FoodQnA	1	Will you ask anything about myself
+q_FoodQnA	1	How gorgeous do I look today
+q_FoodQnA	1	Do you know anything about love
+q_FoodQnA	1	Who made you
+q_FoodQnA	1	How are you today
+q_FoodQnA	1	Do you identify as bicurious
+q_FoodQnA	1	Are you available to chat
+q_FoodQnA	1	Are you slow
+q_FoodQnA	1	You are useless
+q_FoodQnA	1	Somebody's chipper.
+q_FoodQnA	1	What do you want me to refer to you
+q_FoodQnA	1	Can you go shopping
+q_FoodQnA	1	I'm jet-lagged
+q_FoodQnA	1	Between you or me, who is smarter, me or you
+q_FoodQnA	1	Which is chedder, gouda or brie
+q_FoodQnA	1	You are the best
+q_FoodQnA	1	looooool
+q_FoodQnA	1	I am going to get you fired
+q_FoodQnA	1	Do you want to make this official
+q_FoodQnA	1	Are you able to get a haircut
+q_FoodQnA	1	How has your day been going
+q_FoodQnA	1	I am competitive
+q_FoodQnA	1	I am tall
+q_FoodQnA	1	Should I get a puppy
+q_FoodQnA	1	Cortana does a better job than you
+q_FoodQnA	1	Can you draw something
+q_FoodQnA	1	Why is what you say so limited
+q_FoodQnA	1	Yes
+q_FoodQnA	1	Are you a fan of Alexa
+q_FoodQnA	1	Which is better, cake or pie
+q_FoodQnA	1	Do you know Google Assistant
+q_FoodQnA	1	Calm down, I'll be back
+q_FoodQnA	1	Do you think I look adorable to you today
+q_FoodQnA	1	I'm sad today
+q_FoodQnA	1	Do I look good to you
+q_FoodQnA	1	Are you asexual
+q_FoodQnA	1	That's an offensive thing to say
+q_FoodQnA	1	Between the two of us who is cuter
+q_FoodQnA	1	What is up
+q_FoodQnA	1	I want a little french kiss
+q_FoodQnA	1	That was pretty genius
+q_FoodQnA	1	You're not interesting
+q_FoodQnA	1	Do you think I am gorgeous today
+q_FoodQnA	1	Enthusiastic today
+q_FoodQnA	1	How many brothers do you have
+q_FoodQnA	1	Can you show me how to go to the doctor
+q_FoodQnA	1	Because you are a bot
+q_FoodQnA	1	Can you show me how to play a dvd
+q_FoodQnA	1	What's your favourite colour
+q_FoodQnA	1	Do get along with Google Assistant
+q_FoodQnA	1	but your answers are not bad
+q_FoodQnA	1	Can I please speak to your supervisor
+q_FoodQnA	1	These leftovers are good
+q_FoodQnA	1	I like that
+q_FoodQnA	1	What's your opinion of Cortana
+q_FoodQnA	1	Gimme a smooch
+q_FoodQnA	1	What is your favorite sport
+q_FoodQnA	1	I'm chewing gum right now
+q_FoodQnA	1	Do you think I'm more knowledgeable than you
+q_FoodQnA	1	Am I a grandfather
+q_FoodQnA	1	You're not the singularity right
+q_FoodQnA	1	I demand to talk with someone in charge
+q_FoodQnA	1	evenin'
+q_FoodQnA	1	Do you think I seem beautiful today
+q_FoodQnA	1	What is love like
+q_FoodQnA	1	Have you been enjoying the day
+q_FoodQnA	1	Today has been dull
+q_FoodQnA	1	Do you prefer Backstreet Boys or N*SYNC
+q_FoodQnA	1	Be friends with me
+q_FoodQnA	1	Ciao
+q_FoodQnA	1	Do you like music
+q_FoodQnA	1	Are you able to put out a fire
+q_FoodQnA	1	I love a challenge
+q_FoodQnA	1	I want something funny
+q_FoodQnA	1	thats amazing
+q_FoodQnA	1	I love cats
+q_FoodQnA	1	I'm back
+q_FoodQnA	1	Time for a good nights sleep
+q_FoodQnA	1	Do I seem repulsive today
+q_FoodQnA	1	I am Canadian
+q_FoodQnA	1	Should I try out for soccer
+q_FoodQnA	1	You are truly unattractive.
+q_FoodQnA	1	Surprise me
+q_FoodQnA	1	Where did you come from
+q_FoodQnA	1	What's cooking with you
+q_FoodQnA	1	How long have you been chatting
+q_FoodQnA	1	Can I give you a little peck
+q_FoodQnA	1	Should we make this official
+q_FoodQnA	1	I hope you like me
+q_FoodQnA	1	Between the two of us who is better looking
+q_FoodQnA	1	Are we gonna kiss
+q_FoodQnA	1	You're chipper.
+q_FoodQnA	1	I just did laundry
+q_FoodQnA	1	Try to make some sense
+q_FoodQnA	1	what can you help me with
+q_FoodQnA	1	Are you married to someone
+q_FoodQnA	1	Do you live nearby
+q_FoodQnA	1	Who is your mama
+q_FoodQnA	1	Am I more intelligent
+q_FoodQnA	1	Thank you kindly
+q_FoodQnA	1	Are you free to talk to me
+q_FoodQnA	1	Heal me
+q_FoodQnA	1	Happy Friendship day
+q_FoodQnA	1	Is someone listening to chat to me
+q_FoodQnA	1	Why don't you ever stop talking
+q_FoodQnA	1	I love puzzles
+q_FoodQnA	1	See you around
+q_FoodQnA	1	I'm conservative
+q_FoodQnA	1	I'm clearly more intelligent
+q_FoodQnA	1	What does it mean to be in love
+q_FoodQnA	1	What do you eat
+q_FoodQnA	1	Marvelous, thank you kindly
+q_FoodQnA	1	I'm obviously brighter than you
+q_FoodQnA	1	Do I seem handsome to you today
+q_FoodQnA	1	How gorgeous am I
+q_FoodQnA	1	You must be gay
+q_FoodQnA	1	Teehee
+q_FoodQnA	1	How has your saturday been
+q_FoodQnA	1	do drugs
+q_FoodQnA	1	Do you know how to dance
+q_FoodQnA	1	Who's hotter
+q_FoodQnA	1	When are you going to ask me to get married
+q_FoodQnA	1	Somebody's feeling chipper.
+q_FoodQnA	1	Do you go to work
+q_FoodQnA	1	Hello Google
+q_FoodQnA	1	I love the summer
+q_FoodQnA	1	You lesbian
+q_FoodQnA	1	Are you a monosexual
+q_FoodQnA	1	Now you hate me, huh
+q_FoodQnA	1	Do you think I look stunning to you today
+q_FoodQnA	1	Do you have an extended family
+q_FoodQnA	1	You look deformed.
+q_FoodQnA	1	What do you like
+q_FoodQnA	1	Just curious, what kind of person do you think I am
+q_FoodQnA	1	Do you love someone
+q_FoodQnA	1	Someone's feeling enthusiastic.
+q_FoodQnA	1	Can you go for a walk
+q_FoodQnA	1	I work at Microsoft
+q_FoodQnA	1	Is someone there to speak
+q_FoodQnA	1	You're the best ever!
+q_FoodQnA	1	BFFs forever
+q_FoodQnA	1	I'm so mad
+q_FoodQnA	1	That's a very genius response
+q_FoodQnA	1	What is your take on tech companies
+q_FoodQnA	1	I'm clearly smarter
+q_FoodQnA	1	That made no sense
+q_FoodQnA	1	Good morning
+q_FoodQnA	1	What is your sign
+q_FoodQnA	1	How should I call you
+q_FoodQnA	1	Whoops I'm sorry
+q_FoodQnA	1	Do you like movies
+q_FoodQnA	1	I love to ride my bike
+q_FoodQnA	1	Who is your sister
+q_FoodQnA	1	Evening
+q_FoodQnA	1	So where are you from
+q_FoodQnA	1	Somebody's chipper today.
+q_FoodQnA	1	Between the two of us who is the most intelligent
+q_FoodQnA	1	Perfecto, thanks
+q_FoodQnA	1	Say something
+q_FoodQnA	1	Hahaha
+q_FoodQnA	1	No one cares about me
+q_FoodQnA	1	What is the meaning of life
+q_FoodQnA	1	Do you get tired
+q_FoodQnA	1	Want me to kiss you
+q_FoodQnA	1	You're so funny
+q_FoodQnA	1	What don't you get? The purpose of having a name
+q_FoodQnA	1	Tell me a science joke
+q_FoodQnA	1	Say a new joke
+q_FoodQnA	1	Who is your grandpa
+q_FoodQnA	1	Are you in the cloud
+q_FoodQnA	1	That's what I was thinking
+q_FoodQnA	1	Well somebody's happy today.
+q_FoodQnA	1	Let's shoot the breeze when I return
+q_FoodQnA	1	Do you identify as bi
+q_FoodQnA	1	Do you ever dance
+q_FoodQnA	1	When is our wedding
+q_FoodQnA	1	Make me laugh
+q_FoodQnA	1	How bad do I look today
+q_FoodQnA	1	How can I pay
+q_FoodQnA	1	You're not a machine are you
+q_FoodQnA	1	That's transphobic
+q_FoodQnA	1	You're not planning to overtake humans
+q_FoodQnA	1	I hope you enjoy me
+q_FoodQnA	1	You are my pal
+q_FoodQnA	1	Should I vote for Harris
+q_FoodQnA	1	I'm a basketball fan
+q_FoodQnA	1	Is someone available to chat with me
+q_FoodQnA	1	Can you sing a little song
+q_FoodQnA	1	What is your family's name
+q_FoodQnA	1	Are you around to speak to me
+q_FoodQnA	1	Oh, morning
+q_FoodQnA	1	Tell me about your sexual orientation
+q_FoodQnA	1	Bot or human
+q_FoodQnA	1	I would love to be your BFF
+q_FoodQnA	1	Shut up, you
+q_FoodQnA	1	What company engineered you
+q_FoodQnA	1	Do I seem cute today
+q_FoodQnA	1	Are you doing OK
+q_FoodQnA	1	Where am I going on holiday
+q_FoodQnA	1	Do you know Siri
+q_FoodQnA	1	What is your take on AI
+q_FoodQnA	1	Well somebody's enthusiastic.
+q_FoodQnA	1	That's a very smart response
+q_FoodQnA	1	Are you Siri
+q_FoodQnA	1	I'm laughing
+q_FoodQnA	1	You must be poly
+q_FoodQnA	1	Are you into podcasts
+q_FoodQnA	1	You're basic
+q_FoodQnA	1	Between the two of us who is prettier
+q_FoodQnA	1	I want a french kiss
+q_FoodQnA	1	Can I please speak with your director
+q_FoodQnA	1	Do you think I'm smarter
+q_FoodQnA	1	Huh? I don't understand.
+q_FoodQnA	1	Will you tell me  a second joke
+q_FoodQnA	1	Can you understand that this is a test
+q_FoodQnA	1	I'm a journalist
+q_FoodQnA	1	Happy Nurses' day
+q_FoodQnA	1	I would love to be your pal.
+q_FoodQnA	1	Aren't you feeling happy
+q_FoodQnA	1	What is your opinion of artificial intellegence
+q_FoodQnA	1	Is anyone around to chat with me
+q_FoodQnA	1	I'm a CPA
+q_FoodQnA	1	Don't worry bot I'll be back
+q_FoodQnA	1	Can you speak with me
+q_FoodQnA	1	Well someone's feeling cheerful today.
+q_FoodQnA	1	I don't get it
+q_FoodQnA	1	De nada
+q_FoodQnA	1	How many times have you been around the sun
+q_FoodQnA	1	I love New York
+q_FoodQnA	1	I've already heard that one
+q_FoodQnA	1	That's the smartest thing I've ever heard
+q_FoodQnA	1	So what would you like me to call you
+q_FoodQnA	1	This is so dull
+q_FoodQnA	1	What's the name of your manager
+q_FoodQnA	1	I'm a Virgo
+q_FoodQnA	1	Why are you repeating yourself
+q_FoodQnA	1	You can't get enough of me
+q_FoodQnA	1	Am I stunning to you today
+q_FoodQnA	1	You're so fired
+q_FoodQnA	1	I hate depression
+q_FoodQnA	1	I love my house
+q_FoodQnA	1	Who directs you

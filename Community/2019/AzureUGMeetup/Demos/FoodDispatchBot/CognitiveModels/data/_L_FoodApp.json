@@ -1,0 +1,173 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "FoodApp",
+  "desc": "For restaurant demo purposes",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "BookOrder"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "TrackOrder"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [
+    {
+      "name": "food",
+      "mode": true,
+      "words": "dinner,lunch,breakfast,brunch,snack,dessert,dinners,meal,drinks,supper,buffet,desserts,snacks",
+      "activated": true
+    }
+  ],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "can i order food from here?",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "can i please track my order?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "hi i want to place an order",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "how big is the tallest building of the world?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how far is the rider from me?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "how long will it take?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "how many fish are there in the sea?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how much time will it take to deliver my order?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "i am craving for food, can i just place an order?",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "i am hungry",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "i love this bot",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i need pizza",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "i need to order food",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "i want to book an order",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "i want to put an order for dinner",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "i want to takeaway a burger",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "please book an order for me",
+      "intent": "BookOrder",
+      "entities": []
+    },
+    {
+      "text": "tell me the status of my order?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "what is the capital of australia?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what's the weather like?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "when are you going to come?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "when can i expect my order?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "when can i have my food?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "when will i receive my order?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "where is my food?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "where is my lunch?",
+      "intent": "TrackOrder",
+      "entities": []
+    },
+    {
+      "text": "where is pisa located?",
+      "intent": "None",
+      "entities": []
+    }
+  ],
+  "settings": []
+}
