@@ -1,0 +1,155 @@
+﻿<html>
+<head>
+    <meta charset='utf-8'>
+    <title>AI For Every Developer: Immersive Reader Demo</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <script type='text/javascript' src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js'></script>
+    <script type='text/javascript' src='https://contentstorage.onenote.office.net/onenoteltir/immersivereadersdk/immersive-reader-sdk.0.0.3.js'></script>
+    <script type='text/javascript' src='~/js/site.js'></script>
+
+    <link href='~/css/site.css' rel='stylesheet'>
+
+    <style media='screen' type='text/css'>
+        #ContentArea {
+            display: block;
+            margin: 0 20%;
+            padding-top: 50px;
+            width: 60%;
+        }
+
+        .section {
+            border: 1px solid #cccccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            display: block;
+            margin-bottom: 20px;
+            padding: 20px 20px 10px 20px;
+            position: relative;
+            width: 100%;
+        }
+
+        #Cols {
+            box-sizing: inherit;
+            column-count: 1;
+            column-gap: 0;
+        }
+
+        h3 {
+            margin: 0;
+            margin-top: 10px;
+            padding: 0;
+        }
+
+        p {
+            line-height: 25px;
+        }
+
+        @@media screen and (min-width: 900px) {
+            #Cols {
+                column-gap: 20px;
+                column-count: 2;
+            }
+        }
+    </style>
+</head>
+
+<body class='body'>
+    <main id='ContentArea'>
+        <section class='section' id='English'>
+            <div class='immersive-reader-button ir-button-small' onclick='handleLaunchImmersiveReader(1)'></div>
+            <h3 id='title1'>Planets</h3>
+            <p id='text1'>
+                Planets have fascinated scientists and humans in general for years, after all we do live on one ourselves. By learning more about these amazing objects that orbit the same sun as Earth, we can learn more about our own planet.<br/><br/>
+
+                The beauty of the planets found in our solar system is that they are so varied, with each one offering a new insight into everything from chemistry to physics, geography and how our solar system was formed all those years ago.
+            </p>
+        </section>
+        <div id='Cols'>
+            <section class='section' id='Multilingual'>
+                <div class='immersive-reader-button ir-button-small' onclick='handleLaunchImmersiveReaderWithMultiLanguage()'></div>
+                <h3 id='mltitle'>Coffee in Ausralia</h3>
+                <p id='mltext1' ml-lang="fr-fr">Les baristas australiens repoussent les limites en ce qui concerne leur art du café.</p>
+                <p id='mltext2' ml-lang="ur-pk">جب ان کے کافی آرٹ کی بات آتی ہے تو آسٹریلیائی باریستا حدود کو آگے بڑھاتے ہیں۔</p>
+                <p id='mltext3' ml-lang="en-au">Australian baristas push the boundaries when it comes to their coffee art.</p>
+            </section>
+            <section class='section' id='Spanish'>
+                <div class='immersive-reader-button ir-button-small' onclick='handleLaunchImmersiveReaderWithUILanguage()'></div>
+                <h3 id='esTitle'>STEM</h3>
+                <p id='esText'>La ciencia, la tecnología, la ingeniería y las matemáticas son campos importantes para el futuro: los trabajos en estas áreas ofrecen salarios más altos que el promedio, y hay una alta (y creciente) demanda de personas en estas ocupaciones.</p>
+            </section>
+        </div>
+    </main>
+
+    <script type='text/javascript'>
+        async function handleLaunchImmersiveReader(id) {
+            const data = {
+                title: $('#title' + id).text().trim(),
+                chunks: [{
+                    content: $('#text' + id).text().trim(),
+                    lang: 'en'
+                }]
+            };
+
+            const token = await getImmersiveReaderTokenAsync();
+            const subdomain = await getImmersiveReaderSubdomainAsync();
+
+            ImmersiveReader.launchAsync(token, subdomain, data);
+        }
+
+        async function handleLaunchImmersiveReaderWithMultiLanguage() {
+            var title = $('#mltitle').text().trim();
+            var chunks = [];
+            for (var i = 0; i < 4; i++) {
+                var chunkP = $('#mltext' + i);
+                var langChunkText = chunkP.text().trim();
+                var chunkLang = chunkP.attr('ml-lang');
+
+                chunks.push({
+                    content: langChunkText,
+                    lang: chunkLang
+                });
+
+                // Add a chunk of text to make a new line between chunks
+                chunks.push({
+                    content: '\n',
+                    lang: 'en'
+                });
+            }
+
+            const data = {
+                title: title,
+                chunks: chunks
+            };
+
+            const token = await getImmersiveReaderTokenAsync();
+            const subdomain = await getImmersiveReaderSubdomainAsync();
+
+            ImmersiveReader.launchAsync(token, subdomain, data);
+        }
+
+        async function handleLaunchImmersiveReaderWithUILanguage() {
+            const data = {
+                title: $('#esTitle').text().trim(),
+                chunks: [{
+                    content: $('#esText').text().trim(),
+                    lang: 'es'
+                }]
+            };
+
+            const options = {
+                uiLang: 'es'
+            }
+
+            const token = await getImmersiveReaderTokenAsync();
+            const subdomain = await getImmersiveReaderSubdomainAsync();
+
+            ImmersiveReader.launchAsync(token, subdomain, data, options);
+        }
+
+
+    </script>
+</body>
+
+</html>
