@@ -19,8 +19,8 @@
       "name": "default",
       "protocol": "BotFrameworkV3",
       "description": "Default endpoint for the skill",
-      "endpointUrl": "https://a6211e1c.ngrok.io/api/messages",
-      "msAppId": "222e6918-00b3-4393-b40c-12067e136200"
+      "endpointUrl": "https://<your endpoint Url>/api/messages",
+      "msAppId": "<Your App ID>"
     }
   ],
   "activities": {
