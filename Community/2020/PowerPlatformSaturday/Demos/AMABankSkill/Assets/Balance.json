@@ -1,0 +1,14 @@
+﻿{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "Image",
+      "altText": "",
+      "id": "",
+      "url": "https://www.arafattehsin.com/wp-content/uploads/2020/01/balance-1.png",
+      "horizontalAlignment": "Center"
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

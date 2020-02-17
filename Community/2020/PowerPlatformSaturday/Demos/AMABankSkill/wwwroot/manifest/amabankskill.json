@@ -1,0 +1,47 @@
+{
+  "$schema": "https://schemas.botframework.com/schemas/skills/skill-manifest-2.0.0.json",
+  "$id": "AMABankSkill",
+  "name": "AMA Bank Skill bot",
+  "version": "1.0",
+  "description": "This skill extends the banking operations to facilitate the customer",
+  "publisherName": "Arafat Tehsin",
+  "privacyUrl": "https://www.arafattehsin.com/blog",
+  "copyright": "Copyright (c) Arafat Tehsin. All rights reserved.",
+  "license": "",
+  "iconUrl": "https://www.arafattehsin.com/wp-content/uploads/2018/09/logo.png",
+  "tags": [
+    "arafat tehsin",
+    "amabank",
+    "bank"
+  ],
+  "endpoints": [
+    {
+      "name": "default",
+      "protocol": "BotFrameworkV3",
+      "description": "Default endpoint for the skill",
+      "endpointUrl": "https://a6211e1c.ngrok.io/api/messages",
+      "msAppId": "222e6918-00b3-4393-b40c-12067e136200"
+    }
+  ],
+  "activities": {
+    "message": {
+      "type": "message",
+      "description": "Receives the user's' utterance and attempts to resolve it using the skill's LU models",
+      "value": {
+        "$ref": "#/definitions/accountNumber"
+      }
+    }
+  },
+  "definitions": {
+    "accountNumber": {
+      "type": "object",
+      "required": [
+      ],
+      "properties": {
+        "locale": {
+          "type": "string",
+          "description": "The current user's locale ISO code"
+        }
+      }
+    }
+  }
