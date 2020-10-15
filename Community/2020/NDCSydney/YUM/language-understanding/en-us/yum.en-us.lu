@@ -1,0 +1,34 @@
+
+# BookOrder
+- can i order food from here?
+- i want to place an order
+- i am craving for {@foodItem=steak}, can i just place an order?
+- i am hungry
+- i need {@foodItem=chicken}
+- i need to order {@foodItem=tofu}
+- i want to book an order
+- i want to put an order for dinner
+- i want to takeaway a {@foodItem=chicken}
+- please book an order for me
+
+# None
+- how big is the tallest building of the world?
+- how many fish are there in the sea?
+- i love this bot
+- what is the capital of australia?
+- what's the weather like?
+- when are you going to come?
+- where is pisa located?
+
+# TrackOrder
+- can i please track my order?
+- hi i want to track my order
+- how far is the rider from me?
+- how long will it take?
+- how much time will it take to deliver my order?
+- tell me the status of my order?
+- when can i expect my order?
+- when can i have my food?
+- when will i receive my order?
+- where is my food?
+- where is my lunch?

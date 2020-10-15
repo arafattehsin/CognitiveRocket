@@ -1,0 +1,88 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "87SHvd",
+    "name": "OrderDialog",
+    "description": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "tms6ib"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "uf30TM"
+          },
+          "activity": "${SendActivity_uf30TM()}"
+        },
+        {
+          "$kind": "Microsoft.SetProperty",
+          "$designer": {
+            "id": "vJw7So"
+          },
+          "property": "user.Order.FoodChoice",
+          "value": "=toUpper(@foodItem)"
+        },
+        {
+          "$kind": "Microsoft.IfCondition",
+          "$designer": {
+            "id": "mLiJii"
+          },
+          "condition": "=length(user.Order.FoodChoice) > 0",
+          "actions": [],
+          "elseActions": [
+            {
+              "$kind": "Microsoft.TextInput",
+              "$designer": {
+                "id": "Yd2c7I"
+              },
+              "disabled": false,
+              "maxTurnCount": 3,
+              "alwaysPrompt": false,
+              "allowInterruptions": false,
+              "prompt": "${TextInput_Prompt_Yd2c7I()}",
+              "unrecognizedPrompt": "",
+              "invalidPrompt": "",
+              "defaultValueResponse": "",
+              "property": "user.Order.FoodChoice",
+              "value": "=turn.activity.value.FoodChoice"
+            }
+          ]
+        },
+        {
+          "$kind": "Microsoft.SetProperty",
+          "$designer": {
+            "id": "OWnSTO"
+          },
+          "value": "=rand(1,1000)",
+          "property": "user.Order.RefNumber"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "xdWPnE"
+          },
+          "activity": "${SendActivity_xdWPnE()}"
+        },
+        {
+          "$kind": "Microsoft.EndDialog",
+          "$designer": {
+            "id": "CwGRFW"
+          },
+          "value": "=user.Order"
+        }
+      ]
+    }
+  ],
+  "generator": "OrderDialog.lg",
+  "recognizer": "OrderDialog.lu.qna",
+  "id": "OrderDialog"
+}

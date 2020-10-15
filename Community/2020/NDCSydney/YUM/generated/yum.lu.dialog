@@ -1,0 +1,8 @@
+{
+    "$kind": "Microsoft.MultiLanguageRecognizer",
+    "id": "LUIS_yum",
+    "recognizers": {
+        "en-us": "yum.en-us.lu",
+        "": "yum.en-us.lu"
+    }
+}

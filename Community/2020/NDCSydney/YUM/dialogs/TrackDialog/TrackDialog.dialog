@@ -1,0 +1,90 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "JIu67Q",
+    "name": "TrackDialog",
+    "description": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "cxm3De"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.IfCondition",
+          "$designer": {
+            "id": "dkb0S3"
+          },
+          "actions": [],
+          "elseActions": [
+            {
+              "$kind": "Microsoft.TextInput",
+              "$designer": {
+                "id": "IYDgTL"
+              },
+              "disabled": false,
+              "maxTurnCount": 3,
+              "alwaysPrompt": false,
+              "allowInterruptions": false,
+              "prompt": "${TextInput_Prompt_IYDgTL()}",
+              "unrecognizedPrompt": "",
+              "invalidPrompt": "",
+              "defaultValueResponse": "",
+              "property": "user.Order.RefNumber"
+            }
+          ],
+          "condition": "=length(user.Order.FoodChoice) >  0"
+        },
+        {
+          "$kind": "Microsoft.HttpRequest",
+          "$designer": {
+            "id": "dlnfD7"
+          },
+          "method": "GET",
+          "url": "http://localhost:7071/api/TrackFood?orderReferenceNumber=${user.Order.RefNumber}",
+          "resultProperty": "dialog.response",
+          "responseType": "json"
+        },
+        {
+          "$kind": "Microsoft.IfCondition",
+          "$designer": {
+            "id": "EKaVGr"
+          },
+          "condition": "dialog.response.statusCode == 200",
+          "actions": [
+            {
+              "$kind": "Microsoft.SetProperty",
+              "$designer": {
+                "id": "6Skh5J"
+              },
+              "property": "user.Order",
+              "value": "=dialog.response.content"
+            },
+            {
+              "$kind": "Microsoft.SendActivity",
+              "$designer": {
+                "id": "DoCrjM"
+              },
+              "activity": "${SendActivity_DoCrjM()}"
+            }
+          ]
+        },
+        {
+          "$kind": "Microsoft.EndDialog",
+          "$designer": {
+            "id": "LByKdQ"
+          }
+        }
+      ]
+    }
+  ],
+  "generator": "TrackDialog.lg",
+  "recognizer": "TrackDialog.lu.qna",
+  "id": "TrackDialog"
+}

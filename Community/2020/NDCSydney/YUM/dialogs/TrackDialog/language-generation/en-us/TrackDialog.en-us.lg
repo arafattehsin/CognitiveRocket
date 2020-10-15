@@ -1,0 +1,14 @@
+[import](common.lg)
+
+# TextInput_Prompt_IYDgTL()
+- Sure! What's your order number?
+# HeroCard(Order)
+[HeroCard
+  title=Order Status for ${Order.RefNumber}: $if{Order.TrackerStatus==1,On the way..,Delivered!}
+  subtitle = Food Item - ${Order.FoodChoice}
+  text = Latest snapshot of our delivery person. Your order is on its way to ${Order.Address}
+  image=${Order.TrackerURL}
+]
+
+# SendActivity_DoCrjM()
+- ${HeroCard(user.Order)}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodTracker", "FoodTracker\FoodTracker.csproj", "{DCDBB12B-91A5-4815-BF75-5747E49F9611}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{0B7B803E-D391-4B48-99AE-87D8648453E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliveryBot", "DeliveryBot\DeliveryBot.csproj", "{42012468-7C90-42AE-9C45-4C91E9DF442F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDBB12B-91A5-4815-BF75-5747E49F9611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDBB12B-91A5-4815-BF75-5747E49F9611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDBB12B-91A5-4815-BF75-5747E49F9611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDBB12B-91A5-4815-BF75-5747E49F9611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7B803E-D391-4B48-99AE-87D8648453E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7B803E-D391-4B48-99AE-87D8648453E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7B803E-D391-4B48-99AE-87D8648453E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7B803E-D391-4B48-99AE-87D8648453E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42012468-7C90-42AE-9C45-4C91E9DF442F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42012468-7C90-42AE-9C45-4C91E9DF442F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42012468-7C90-42AE-9C45-4C91E9DF442F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42012468-7C90-42AE-9C45-4C91E9DF442F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997C1519-B052-4DFF-B3FE-F858B5D8BF63}
+	EndGlobalSection
+EndGlobal
