@@ -15,9 +15,22 @@ namespace SentimentAnalyzer
     /// </summary>
     public sealed class Sentiments
     {
-        private static readonly Sentiments instance = new Sentiments();
+        [ThreadStatic]
+        private static Sentiments instance;
+
         private readonly PredictionEngine<Sentiment, SentimentPrediction> predictionEngine;
 
+        private static Sentiments Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = new Sentiments();
+                }
+                return instance;
+            }
+        }
         /// <summary>
         /// Explicit static constructor to tell C# compiler
         /// not to mark type as beforefieldinit
@@ -49,7 +62,7 @@ namespace SentimentAnalyzer
         public static SentimentPrediction Predict(string text)
         {
             var statement = new Sentiment { Col0 = text };
-            return instance.predictionEngine.Predict(statement);
+            return Instance.predictionEngine.Predict(statement);
         }
 
     }
