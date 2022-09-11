@@ -14,11 +14,11 @@ using System.Linq;
 
 namespace OpinionMining
 {
-    public static class OpinionMining
+    public static class OpinionMiningFunction
     {
-        [FunctionName("OpinionMining")]
+        [FunctionName("OpinionMiningFunction")]
         public static async Task<IActionResult> Run(
-            [HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = null)] HttpRequest req,
+            [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
             ILogger log)
         {
             log.LogInformation("C# HTTP trigger function processed a request.");
@@ -26,16 +26,16 @@ namespace OpinionMining
             TextAnalyticsClient client = GetTextAnalyticsClient();
             string sentence = req.Query["sentence"];
 
-            var sentiment = AnalyzeSentimentAsync(client, sentence, includeOpinionMining: true).Result;
-            
+            var sentiment = await AnalyzeSentimentAsync(client, sentence, includeOpinionMining: true);
+
             List<OpinionDTO> Opinions = new List<OpinionDTO>();
-            var opinions = sentiment?.Sentences.SelectMany(s => s.MinedOpinions);
+            var opinions = sentiment?.Sentences.SelectMany(s => s.Opinions);
             if (opinions != null && opinions.Any())
             {
                 var minedOpinionList = opinions.Select(om => new OpinionDTO()
                 {
-                    Aspect = om.Aspect.Text,
-                    Opinions = string.Join(", ", om.Opinions.Select(o => $"{o.Text} ({o.Sentiment.ToString("G")})"))
+                    Aspect = om.Target.Text,
+                    Opinions = string.Join(", ", om.Assessments.Select(o => $"{o.Text} ({o.Sentiment.ToString("G")})"))
                 });
                 Opinions.AddRange(minedOpinionList);
             }
@@ -65,7 +65,7 @@ namespace OpinionMining
 
         public static async Task<DocumentSentiment> AnalyzeSentimentAsync(TextAnalyticsClient client, string input, string language = "en", bool includeOpinionMining = false)
         {
-            var options = new AnalyzeSentimentOptions() { IncludeOpinionMining = includeOpinionMining } ;
+            var options = new AnalyzeSentimentOptions() { IncludeOpinionMining = includeOpinionMining };
             return await client.AnalyzeSentimentAsync(input, language, options);
         }
 
@@ -76,4 +76,3 @@ namespace OpinionMining
         }
     }
 }
-
