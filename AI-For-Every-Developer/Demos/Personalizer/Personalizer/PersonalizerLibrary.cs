@@ -6,10 +6,10 @@ namespace Personalizer
     public class PersonalizerLibrary
     {
         // The key specific to your personalizer service instance; e.g. "0123456789abcdef0123456789ABCDEF"
-        private const string ApiKey = "ac816ef48029468badadd20ba347c8df";
+        private const string ApiKey = "<your API Key>";
 
         // The endpoint specific to your personalizer service instance; e.g. https://westus2.api.cognitive.microsoft.com/
-        private const string ServiceEndpoint = "https://personalizerserviceau.cognitiveservices.azure.com/"; //"https://westus2.api.cognitive.microsoft.com/";
+        private const string ServiceEndpoint = "https://<yourpersonalizerresourcename>.cognitiveservices.azure.com/"; 
 
         // Personalizer client
         private PersonalizerClient client;
