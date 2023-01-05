@@ -1,0 +1,222 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Azure Personalizer - Community",
+    "description": "Ability to call Rank and Reward APIs for the Azure Personalizer. This is a community connector by Arafat Tehsin and not an official one by Microsoft.",
+    "version": "1.0"
+  },
+  "host": "westus2.api.cognitiveservices.azure.com",
+  "basePath": "/",
+  "schemes": [
+    "https"
+  ],
+  "consumes": [],
+  "produces": [],
+  "paths": {
+    "/personalizer/v1.1-preview.3/rank": {
+      "post": {
+        "responses": {
+          "default": {
+            "description": "default",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "ranking": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": {
+                        "type": "string",
+                        "description": "id"
+                      },
+                      "probability": {
+                        "type": "number",
+                        "format": "float",
+                        "description": "probability"
+                      }
+                    }
+                  },
+                  "description": "ranking"
+                },
+                "eventId": {
+                  "type": "string",
+                  "description": "eventId"
+                },
+                "rewardActionId": {
+                  "type": "string",
+                  "description": "rewardActionId"
+                }
+              }
+            }
+          }
+        },
+        "summary": "Rank",
+        "description": "Calls the Personalizer Rank request. It expects the API Key, Context Features and the List of Actions. Returns the best possible actions with the rewardActionID and eventID.",
+        "operationId": "Rank",
+        "x-ms-visibility": "important",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "in": "header",
+            "required": true,
+            "type": "string",
+            "default": "application/json",
+            "x-ms-visibility": "internal"
+          },
+          {
+            "name": "body",
+            "in": "body",
+            "required": false,
+            "schema": {
+              "type": "object",
+              "properties": {
+                "EventId": {
+                  "type": "string",
+                  "description": "EventId"
+                },
+                "DeferActivation": {
+                  "type": "string",
+                  "description": "DeferActivation"
+                },
+                "ContextFeatures": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "occassion": {
+                        "type": "string",
+                        "description": "occassion"
+                      },
+                      "variety": {
+                        "type": "string",
+                        "description": "variety"
+                      }
+                    }
+                  },
+                  "description": "ContextFeatures"
+                },
+                "Actions": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "Id": {
+                        "type": "string",
+                        "description": "Id"
+                      },
+                      "Features": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "variety": {
+                              "type": "string",
+                              "description": "variety"
+                            },
+                            "sweetlevel": {
+                              "type": "string",
+                              "description": "sweetlevel"
+                            },
+                            "nutritionLevel": {
+                              "type": "integer",
+                              "format": "int32",
+                              "description": "nutritionLevel"
+                            },
+                            "cuisine": {
+                              "type": "string",
+                              "description": "cuisine"
+                            },
+                            "nutritionalLevel": {
+                              "type": "integer",
+                              "format": "int32",
+                              "description": "nutritionalLevel"
+                            },
+                            "drink": {
+                              "type": "boolean",
+                              "description": "drink"
+                            }
+                          }
+                        },
+                        "description": "Features"
+                      }
+                    }
+                  },
+                  "description": "Actions"
+                },
+                "ExcludedActions": {
+                  "type": "array",
+                  "items": {},
+                  "description": "ExcludedActions"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "/personalizer/v1.1-preview.3/events/{eventId}/reward": {
+      "post": {
+        "responses": {
+          "default": {
+            "description": "default",
+            "schema": {}
+          }
+        },
+        "summary": "Reward",
+        "operationId": "Reward",
+        "description": "Calls the Personalizer Reward request. Expects the Reward between 0 and 1 that resulted from using the action specified in rewardActionId, for the specified event.",
+        "parameters": [
+          {
+            "name": "eventId",
+            "in": "path",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "name": "Content-Type",
+            "in": "header",
+            "required": true,
+            "type": "string",
+            "default": "application/json",
+            "x-ms-visibility": "internal"
+          },
+          {
+            "name": "body",
+            "in": "body",
+            "required": false,
+            "schema": {
+              "type": "object",
+              "properties": {
+                "value": {
+                  "type": "integer",
+                  "format": "int32",
+                  "description": "value"
+                }
+              },
+              "x-ms-visibility": "important"
+            },
+            "x-ms-visibility": "important"
+          }
+        ],
+        "x-ms-visibility": "important"
+      }
+    }
+  },
+  "definitions": {},
+  "parameters": {},
+  "responses": {},
+  "securityDefinitions": {
+    "API Key": {
+      "type": "apiKey",
+      "in": "header",
+      "name": "Ocp-Apim-Subscription-Key"
+    }
+  },
+  "security": [
+    {
+      "API Key": []
+    }
+  ],
+  "tags": []
+}
